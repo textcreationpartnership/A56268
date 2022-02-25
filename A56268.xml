@@ -1,0 +1,988 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Historical essaies &amp; observations, proving Gods especial providence over the English monarchy and more particularly over that family which enjoys the same / by H. Puleston ...</title>
+            <author>Puleston, Hamlet, 1632-1662.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 96 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56268</idno>
+            <idno type="STC">Wing P4191</idno>
+            <idno type="STC">ESTC R5257</idno>
+            <idno type="EEBO-CITATION">12378073</idno>
+            <idno type="OCLC">ocm 12378073</idno>
+            <idno type="VID">60649</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56268)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60649)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 223:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Historical essaies &amp; observations, proving Gods especial providence over the English monarchy and more particularly over that family which enjoys the same / by H. Puleston ...</title>
+                  <author>Puleston, Hamlet, 1632-1662.</author>
+               </titleStmt>
+               <extent>[4], 41 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author, and are to be sold by Ric. Davis ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reissue of sheets B-F (p. 1-40) of Monarchicae britannicae singularis protectio. London, 1661.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Advertisements: p. [3]-[4].</note>
+                  <note>Reproduction of original in Yale University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Kings and rulers.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Graham Hukill</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Graham Hukill</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <figure>
+               <figDesc>royal blazon or coat of arms</figDesc>
+               <head>C R</head>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+               <q>DIEV ET MON DROIT</q>
+            </figure>
+            <p>By H. PULESTON M. A.</p>
+            <p>Printed for the Author, and are to be ſold by <hi>R I C: DAVIS</hi> in Oxon, 1664.</p>
+            <pb facs="tcp:60649:2"/>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:60649:2"/>
+            <head>A CATALOGUE of ſome Books Printed for, and to be ſold by <hi>Richard Davis</hi> in <hi>OXON.</hi>
+            </head>
+            <p>
+               <table>
+                  <row>
+                     <cell>A View of the Threats and Puniſhments re<g ref="char:EOLhyphen"/>corded in Scriptures Alphabetically com<g ref="char:EOLhyphen"/>poſed, with ſome brief Obſervations upon ſeverall Texts, by <hi>Zachary Bogan</hi> of C. C. C. in Oxon. in</cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>—The Mirth of a Chriſtian Life. And the ſorrows of a wicked Life</cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Fides Apoſtolica,</hi> or, A Diſcourſe aſſerting the received Authors and Authority of the Apoſtles Creed: Together with the grounds &amp; ends of com<g ref="char:EOLunhyphen"/>poſing thereof by the Apoſtles, the ſufficiency there<g ref="char:EOLhyphen"/>of for the Rule of Faith <hi>&amp;c.</hi> With a double Ap<g ref="char:EOLhyphen"/>pendix. 1. Touching the <hi>Athanaſian.</hi> 2. The <hi>Nicene</hi> Creed: By <hi>Georg. Aſhwel</hi> B. D. in</cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Ailmeri Muſae Sacrae, ſeu Ionas, Ieremiae Threni; &amp; Daniel Graeca redditi carn<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ine,</hi> in</cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Ad Grammaticen ordinariam ſupplementa quae<g ref="char:EOLhyphen"/>dam, editio</hi> 2. <hi>multis auctior</hi> in</cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Theſes Philoſoph. Nov.</hi> A Carolo Potter, in</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Contemplationes Metaphiſicae ex Natura Rerum &amp; rectae Rationis lumine deductae. Authore</hi> Georg. Ritſchel Bohemio in</cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>The City Match, and the Amorous Warre, two Playes by <hi>I. M.</hi> St. Ch. Ch. in</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Aditus ad Logicam, Authore</hi> Samuele Smith in</cell>
+                     <cell>12.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Elementa Logicae, Authore</hi> Edwardo Brerewood in</cell>
+                     <cell>12.</cell>
+                  </row>
+                  <row>
+                     <cell>Johan Butidani <hi>Quaeſtiones in octo Libros Poli<g ref="char:EOLhyphen"/>ticorum Ariſtotelis</hi> in</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>Robert. Baronii <hi>Philoſoph. Theolog. Ancil<g ref="char:EOLhyphen"/>lans</hi> in</cell>
+                     <cell>12.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>De Peccato Morale</hi> &amp; <hi>Veniale</hi> in</cell>
+                     <cell>12.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>—Metaphiſica</hi> in</cell>
+                     <cell>12.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Delphi Phoenicizantes per</hi> Edm. Dickinſon. <hi>M. D. è Coll. Merton Socio</hi> in</cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>The Hurt of Sedition by <hi>S. Io. Check</hi> in</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>The Chriſtian Race, A Sermon on <hi>Heb.</hi> 12. 1. by <hi>Tho. Barton</hi> in</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>A Funeral Sermon on <hi>Philip.</hi> 1. 23. by <hi>Iohn Millet,</hi> in</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>A Nomenclator of ſuch Tracts and Sermons as have been Printed or Tranſlated into Engliſh up<g ref="char:EOLhyphen"/>on any place or Book of the Holy Scripture, now to be had in the Publique Liberary in <hi>Oxford,</hi> by <hi>Ioh. Vernevil</hi> in</cell>
+                     <cell>12.</cell>
+                  </row>
+                  <row>
+                     <cell>The Vaulting Maſter, Or the Art of Vaulting, illuſtrated with Sixteen braſſe figures. by <hi>William Stoakes</hi> in</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>A Treatiſe of the Preſervation of the Eye ſight by <hi>D Ba<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ly</hi> in</cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Artis Logi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ae Compendium à</hi> Roberto Sanderſon <hi>ol<gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> Epiſc.</hi> Lincol. <hi>Edit. ſexta, in</hi>
+                     </cell>
+                     <cell>12.</cell>
+                  </row>
+                  <row>
+                     <cell>1. A Chriſtian Legacy, or preparations for, and conſolarions againſt Death, with the ſick mans cordial by <hi>Edw. Hyde</hi> D. D in</cell>
+                     <cell>12.</cell>
+                  </row>
+                  <row>
+                     <cell>2. Chriſt and his Church, or Chriſtianity ex<g ref="char:EOLhyphen"/>plained in 6. Evangelical heads with a Juſtification of the Church of <hi>England</hi> in</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>3. Vindication of Truth againſt Error in 7. Controverſies. 1. Of Sinners Prayers. 2. Prieſts Marriage. 3. Purgatory. 4. Images. 5. Praying to Saints and Angels. 6. Juſtification by Faith. 7. Of Chriſts new Teſtament or Covenant, in</cell>
+                     <cell>12.</cell>
+                  </row>
+                  <row>
+                     <cell>Directions to a Godly Life, Inſtructions for the worthy receiving of the Lords Supper by <hi>H. Tozer</hi> in</cell>
+                     <cell>12.</cell>
+                  </row>
+                  <row>
+                     <cell>A Compleat Herbal by <hi>Rob. Lovel</hi> in</cell>
+                     <cell>12.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Savili<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Oratio Coram Eliz. Regm.</hi>
+                     </cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>The Circles of Proportion, and the Horizontall Inſtrument &amp;c. Both invented and their uſe written by <hi>W. Oughtred</hi> Aetonenſis, in</cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>The Neceſſity of a Learned Miniſtry by <hi>H. Thurman</hi> St. Ch. Ch. in</cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>The Naturall Mans Blindneſſe in 3. Sermons on <hi>Rom.</hi> 7. 7. by <hi>H. Hurſt</hi> in</cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>Eſſays and Obſervations on the Humours of the Age Diſcovered and Characterized, by <hi>W. M.</hi> M. A. Fellow of Merton Coll. in</cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Porta Moſis, ſive D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſſertationes aliquot R. M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſis Maimonidis, nunc primum Arabice, prout ab ipſo Autore conſcriptae ſunt, et Latine editae, una cum Appendice Notarum Miſcellan. Opera et Studio</hi> Edv. Pocokii <hi>Ling. Hebr. et Arab. in Acad. Oxon. Profeſſoris,</hi> in</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Idea Trigonometriae Demonſtratae. Item de Come<g ref="char:EOLhyphen"/>tis, et Inquiſitio in Bullialdi Aſtronomiae Philolaicae Fundamenta, Authore</hi> Setho Ward, <hi>nunc Epiſc. Exon.</hi> in</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>—Exercitatio Epiſtolica in Tho. Hobbii Philoſo<g ref="char:EOLhyphen"/>phiam</hi> in</cell>
+                     <cell>80.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>—Aſtronomia Geometrica. Vbi Methodus propo<g ref="char:EOLhyphen"/>nitur qua primariorum Planetarum Aſtronomia five Elliptica Circularis poſsit G<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ometrice abſolvi</hi>
+                     </cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Ovids</hi> Invective againſt <hi>Ibis,</hi> tranſlated into Engliſh Verſe. by <hi>Io. Iones</hi> Schoole Maſter in Hereford, in</cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>Two Aſſize Sermons preached at Reading &amp; Abington, on <hi>Cant</hi> 7. 4. <hi>Pſal</hi> 82. 1. With two other Sermons Preached at S Maries in Oxon. on 1 <hi>Cor.</hi> 15. 10. <hi>Pſal.</hi> 58 11. by <hi>Io. Hinckley</hi>
+                     </cell>
+                     <cell>12.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Exercitationes duae</hi> 1. <hi>De Hyſterica Paſsione</hi> 2. <hi>De Affectione Hypochondriaca autore</hi> N. Highmore <hi>Art. et M. B.</hi> in</cell>
+                     <cell>12.</cell>
+                  </row>
+                  <row>
+                     <cell>Cheerful Ayres or Ballads, firſt compoſod for one ſingle voice, and ſince ſet for three voyces by <hi>Ioh. Wilſon</hi> D. in Muſick Profeſſor of the ſame in the Univerſity of Oxon. 3. Vol. in</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Britannia Rediviva Muſarum Acad. Oxon.</hi> in</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Epicedia Acad. Oxon. in Obitum H. Ducis Glo<g ref="char:EOLhyphen"/>ceſtrenſis,</hi> in</cell>
+                     <cell>40.</cell>
+                  </row>
+                  <pb facs="tcp:60649:3"/>
+                  <row>
+                     <cell>
+                        <hi>Epicedia Acad. Oxon. in Obitum Mariae Principis Arauſionenſis</hi> in</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>An Elegy on the Death of the moſt Illuſtrious Prince Henry Duke of Gloceſter, by <hi>M. Lluelyn</hi> D. Phyſick in</cell>
+                     <cell>
+                        <hi>folo</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Threnodia on the Death of the high borne Prince Henry Duke of Gloceſter, by <hi>Arthur Bret</hi> of Ch. Ch.</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>A plaine and profitable Catechiſme, with a Sermon, on <hi>Exod.</hi> 23. 2. by M. <hi>Iames Bacon</hi> pub<g ref="char:EOLhyphen"/>liſhed by D. <hi>Hen. W<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>lkinſon.</hi>
+                     </cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Grotius de Veritate Religionis, cum Notis ſuis</hi>
+                     </cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>Hoſannah a Thanſgiving Sermon on the Kings Returne Pſ. 118. 22, 23, 24. 25. by <hi>Io Martin</hi>
+                     </cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>Hiſtoricall reflections on the Biſhop of Rome, by <hi>Io. Wagſtaffe</hi> Or. Coll. in</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>A ſheet of Directions for Daily Examination of ſin, by Biſhop <hi>Vſher</hi> in</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Proluſiones Academicae in duas partes diſtributa:</hi> 1. <hi>De Iudiciis.</hi> 2. <hi>De Origine Dom<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nii et ſervitutis</hi> &amp;c. Tho Jones <hi>LL. D. et Coll. Mert. Soc.</hi>
+                     </cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>A ſhort Direction for performance of Cathe<g ref="char:EOLhyphen"/>dral Service by E. <hi>Lowe.</hi> in</cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Liber Precum Publicarum in uſum Eccleſ. Cathe<g ref="char:EOLunhyphen"/>dralis Chriſti Oxon.</hi> in</cell>
+                     <cell>12.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Carmen Tograi Poetae Arabis Doctiſsimi, una cum Verſione Latina et Notis Praxin illius exhibentibus. Opera</hi> Ed. Pocokii <hi>LL Heb. et Arab. Proſeſſoris. Acceſsit Tractatus de Proſodia Arabica per</hi> Sam. Clericum, in</cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Burgerſdicii Logica</hi>
+                     </cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>—Metaphyſica</hi>
+                     </cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>—Idea Philoſophiae</hi>
+                     </cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Homonyma &amp; Synonyma Linguae, Latinae ex Otio &amp; Opera</hi> Henr. Edmundſon 1662. in</cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>A Divine Theater, or a ſtage for Chriſtians, a Sermon at Ch. Ch. in Oxford by <hi>Ioh. Wall</hi> D. D. Praebend there 1662. in</cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Wollebii Compendium Theolog.</hi> in</cell>
+                     <cell>12.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Suetonius cum Annot. diverſorum</hi> in</cell>
+                     <cell>12.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Cluveri<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Geographia.</hi> in</cell>
+                     <cell>12.</cell>
+                  </row>
+                  <row>
+                     <cell>—The ſame in Engliſh, in</cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Bradſhaw de Iuſtificatione</hi> in</cell>
+                     <cell>12.</cell>
+                  </row>
+                  <row>
+                     <cell>Shepheard of Sincerity and Hypocriſy, with a Tract annexed to prove; That true Grace doth not lye ſo much in the Degree; as in the Nature of it in</cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Iſſendoorni Carſus Logicus.</hi> in</cell>
+                     <cell>12.</cell>
+                  </row>
+                  <row>
+                     <cell>The Throne of David, or an Expoſition of the ſecond Book of Samuel by <hi>W.l. Guild.</hi> D. B.</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>Chriſtian Liberty Rightly Stated and Enlarged. Being a brief Vindication of the Lawfulneſſe of eating things Strang'ed. by <hi>Will Roe.</hi> in</cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Coll. Henry Martin's</hi> Familiar Letters to his La<g ref="char:EOLhyphen"/>dy of Delight, alſo Her kind Returnes &amp;c. publi<g ref="char:EOLhyphen"/>ſhed by <hi>Edm. Gayton)</hi> according to the Originall papers under their own hands: with an An<g ref="char:EOLhyphen"/>ſwer to that Letter of his in Juſtification of the Murther of the late K. <hi>Charles.</hi>
+                     </cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sleidan de quatuor Imperiis.</hi>
+                     </cell>
+                     <cell>1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Pemble <hi>Tract. Philoſophiae, Creatione &amp; Providentia viz. de Origine Formarum Senſibus Internis.</hi>
+                     </cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Statuta Vniverſitatis Oxon.</hi>
+                     </cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Drexelius</hi> of Eternity in Welch.</cell>
+                     <cell>12.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Stradae Proluſiones Academicae</hi>
+                     </cell>
+                     <cell>12.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Combachii Metaphyſica</hi>
+                     </cell>
+                     <cell>12.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Boethius de Conſolatione Philoſ.</hi>
+                     </cell>
+                     <cell>24</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lipſius de Conſtantia</hi>
+                     </cell>
+                     <cell>24</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Minutius Foelix cum Notis Rigaltii &amp;c.</hi>
+                     </cell>
+                     <cell>12.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>D. Pierce's</hi> Sermon, the Primitive Rule of Re<g ref="char:EOLhyphen"/>formation. in</cell>
+                     <cell>40. and in 12.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dialogi Gallico-Anglico Latini. per Gabr Dugres Editio Tert<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>a, priori emendatior. Acceſserunt huic editioni ejuſdem Authoris Regulae pronunciandi; u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> &amp; Verborum Gallicorum Paradigmata. Quibus ſub<g ref="char:EOLhyphen"/>nexae ſunt, Linguae Gallicae Addiſcendae Regulae. Collectae Opera &amp; Induſtria</hi> H. Leighton. A. M.</cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>Some conſiderations touching the Uſefulneſs of Experimentall Philoſophy, propos'd in Familiar Diſcourſes to a Friend by way of invitation to the Study of it, by the Honourable <hi>Robert Boyle</hi> Eſquire: in</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Aſhwells Geſtus Euchariſticus,</hi> A Diſcourſe con<g ref="char:EOLhyphen"/>cerning the Geſture at the receiving of the Lords Supper.</cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hiſtoria Dynaſtiarum Arabice-latin. Autore,</hi> Gregorio Abul-Pharagio. <hi>Edit. Interpret. &amp; Con<g ref="char:EOLhyphen"/>tinuat. per</hi> Ed. Pocock.</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lucians</hi> Dialogues made Engliſh from the Origi<g ref="char:EOLhyphen"/>nall by <hi>Iaſp. Mayne</hi> D. D. to which are added thoſe Engliſhed by Mr <hi>Hicks.</hi>
+                     </cell>
+                     <cell>
+                        <hi>fol.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>E<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>lis</hi> Poems.</cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Provinciale Vetus Provinciae Cantuarienſis, cum ſelectioribus Lindwodi Annotationibus. Quibus ſub<g ref="char:EOLhyphen"/>nexae ſunt conſtitutiones Othonis &amp; Othoboni. Card. &amp; ſedis Romani in Anglia Legatorum. Reviſa om<g ref="char:EOLhyphen"/>nia, &amp; cum Veteribus comparata per</hi> Rob. Sharrock LL. D. Novi Coll. Soc. in</cell>
+                     <cell>12.</cell>
+                  </row>
+                  <row>
+                     <cell>Of the Church, Five Books, by <hi>Rich. Field,</hi> Doctor in Divinity, and ſometimes Deane of Gloceſter</cell>
+                     <cell>
+                        <hi>folio.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Davenant, Morton &amp;c.</hi> Good Councels for Peace, in</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Howels</hi> Voeall Forreſt.</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Accontii Stratagematum Satanae.</hi>
+                     </cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Iuelli Apollogia Eccleſiae Angl. gr. lat.</hi>
+                     </cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Downam,</hi> of Chriſtian Liberty.</cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Flavell de Demonſtratione.</hi>
+                     </cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Imperiale,</hi> a Play</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>Sicily and Naples, the Fatall Union, a Play</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sharrock de Officiis ſeu de Moribus</hi>
+                     </cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>—de Incontinentia</hi>
+                     </cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>—Hiſtory of the Propagation of Plants</cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Holyday's</hi> Survey of the World.</cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Heerebord in Burgerſd. Log.</hi>
+                     </cell>
+                     <cell>80.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sthalii Regulae Philoſophicae.</hi> in</cell>
+                     <cell>12.</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <p>
+               <pb n="1" facs="tcp:60649:3"/>
+               <seg rend="decorInit">I</seg>T is obſerved by <hi>Edmond Howes</hi> a diligent Compiler of our Coun<g ref="char:EOLhyphen"/>tries Annals, That in this Iſland there hath happened five remar<g ref="char:EOLhyphen"/>kable alterations, and each of them alwayes about the period or revolution of five hundred years, whereof in his Hiſtorical Preface, he gives this inſuing ac<g ref="char:EOLhyphen"/>count.</p>
+            <p n="1">1. The firſt alteration, ſayes he, was preſently upon the death of <hi>Gorboduc,</hi> ſeventeenth in deſcent from <hi>Brute,</hi> Founder, according to him, of the Britiſh Monarchy. This <hi>Gorboduc</hi> had cauſed his youngeſt Son <hi>Porrex</hi> to be joyntly crowned with his eldeſt Son <hi>Ferrex:</hi> Theſe two fall at difference among themſelves; the younger kills the elder, him the Mother, her the Multitude, hence Civil Wars; at length <hi>Malmutius Danwallo</hi> Duke of <hi>Cornwall,</hi> having ſubdued all Competitors, tranſlates the Kingdom to another line, which continues without any memorable interruption, untill</p>
+            <p n="2">2. The ſecond grand alteration, in the Reign of <hi>Caſsi<g ref="char:EOLhyphen"/>beline,</hi> forty fourth Succeſſor of <hi>Malmutius,</hi> begun by the invaſion of <hi>Iulius Caeſar,</hi> General of the Romans in <hi>Gaule,</hi> but not perfected before <hi>Claudius</hi> the Emperors time, from which date the Aera or computation of the Ro<g ref="char:EOLhyphen"/>mans abſolute Dominion here is to commence, who<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e departure, recalled by their Domeſtick diſſentions, and Forein inundations, carrying with them alſo the ableſt
+<pb n="2" facs="tcp:60649:4"/>
+of the Britains, was the occaſion of</p>
+            <p n="3">3. The third famous alteration; for the Britains be<g ref="char:EOLhyphen"/>reaved of their own proper ſtrength, and deſtitute of the accuſtomed aid of their Champions the Romans, were neceſſitated to implore the aſiſtance of the Saxons, a people of <hi>Germany,</hi> againſt the Picts and Scots, who grie<g ref="char:EOLhyphen"/>vouſly infeſted the Northern borders.</p>
+            <p>To theſe Saxons <hi>Vortigern,</hi> the late elected King, and Author of theſe Strangers imployment, in contemplati<g ref="char:EOLhyphen"/>on of their ſervice, moſt improvidently allots, firſt the Iſle of <hi>Thannet,</hi> then all <hi>Kent,</hi> afterwards more to inha<g ref="char:EOLhyphen"/>bit; beſides his mariage with <hi>Rowena</hi> the Daughter of <hi>Hengiſt,</hi> one of their principal leaders, gave them ſo firm a footing, that they not only could not be removed, but even forced their Landlords the Britains into the leaſt, moſt deſart, and moſt mountanous parts, whilſt theſe new intruding gueſts injoy the greateſt, the beſt, and richeſt ſhare, which they portioned into an Heptarchy, or ſeven petty Principalities, who contending among themſelves for ſuperiority, and wearying out one ano<g ref="char:EOLhyphen"/>ther with mutual diſcord, adminiſtred opportunity unto</p>
+            <p n="4">4. The fourth, and indeed a twofold alteration, (but in regard of its immediate connexion is reckoned but as one) firſt by the Danes, a people likewiſe of <hi>Germany,</hi> who after many conflicts obteined the Soveraignty, but did not long retain the ſame. But the ſecond (which took its original almoſt, where the other determined) and chiefeſt mutation, both for its continuance and uni<g ref="char:EOLhyphen"/>verſality, was that by the Normans, a Nation prima<g ref="char:EOLhyphen"/>rily iſſued out of <hi>Normandy,</hi> but then poſſeſſing the South of <hi>France,</hi> who introduced a general innovation in all things but Religion, which alſo ſuffered its vi<g ref="char:EOLhyphen"/>ciſſitude or turn in</p>
+            <p n="5">5. The fifth and laſt alteration under <hi>Henry</hi> the eighth, who gave the firſt blow unto it, by his with-drawing his
+<pb n="3" facs="tcp:60649:4"/>
+obedience from the Romiſh Sea, in whoſe communion <hi>England</hi> had perſevered ſince its firſt converſion, and by ſuppreſſing Monaſteries who were the main Pillars and Supporters thereof. But his Son <hi>Edward</hi> the ſixth, pro<g ref="char:EOLhyphen"/>ceeds further to the abolition of the Rites and Doctrine of that Church, which were yet again reſtored by his Siſter <hi>Mary,</hi> and again excluded by her Siſter <hi>Elizabeth,</hi> who was therein imitated by her Succeſſour, <hi>James,</hi> con<g ref="char:EOLhyphen"/>joyner of the two ſeparated Kingdoms, <hi>England,</hi> and <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> which our Author makes a parcel of this laſt alte<g ref="char:EOLhyphen"/>ration, and where he concludes his general Hiſtory of the ſeveral revolutions of this Iſland, from the firſt foun<g ref="char:EOLhyphen"/>dation of a Monarchy here, untill the time wherein he wrote.</p>
+            <p>But ſince there hath happened another alteration no leſſe, if not in ſome reſpect more conſiderable than any of the former, when not only the Perſon but the Office, not only a King, and that in an unparalleld manner, but even Kingſhip it ſelf was deſtroyed, (a deſign that was never ſo much as attempted by our Anceſtors) and inſtead thereof, an unheard-of kind of Common-wealth erected, which was ſoon ſuppreſſed by an inſolent Uſur<g ref="char:EOLhyphen"/>per, who thought under a different title to have eſta<g ref="char:EOLhyphen"/>bliſhed the whole power to him and his; But by Gods providence, and the perfidiouſneſſe of his own Relations, his purpoſe was defeated, his Son dethroned, a ſhadow of a Common-wealth retrived, once more diſmiſſed, again revived, and finally diſſolved, the old Government renewed, and lawfull Heir recalled; and all this came to paſſe within the ſpace of twelve years, yea moſt ofit with<g ref="char:EOLhyphen"/>in the circuit of one year, whereof we can only ſay with the <hi>Pſalmiſt, This is the Lords doings, it is marvelous in our eys.</hi>
+            </p>
+            <p>And truly, if we conſider things impartially, there is great cauſe of admiration; that God ſhould not only pre<g ref="char:EOLhyphen"/>ſerve
+<pb n="4" facs="tcp:60649:5"/>
+among us for ſo many ages a Monarchy, (the beſt of Regiments in general, and in particular moſt agreeable to the ſituation of this Country, and conſtitu<g ref="char:EOLhyphen"/>tion of the people,) but even continue it, maugre all the Plots and policies of men to the contrary, in that very blood and Family, which as far as creditable Genealo<g ref="char:EOLhyphen"/>gy will extend, hath been firſt known to have been inveſt<g ref="char:EOLhyphen"/>ed there-withall.</p>
+            <p>For we may ſafely affirm, that our preſent King <hi>Charles</hi> the ſecond, (in whoſe poſterity we truſt it will remain as long as the Sun and Moon endures) deduces his pede<g ref="char:EOLhyphen"/>gree in an indiſputable line, from all that ever did or could pretend a title or intereſt to the Crown, which we think can hardly be verified of any Prince beſides, this day in the Chriſtian world.</p>
+            <p>For proof whereof we appeal to ſuch of our Chro<g ref="char:EOLhyphen"/>nicles only as are undoubted and beyond exception. Paſſing by therefore the Catalogue of Britiſh Kings from <hi>Brute</hi> to <hi>Caſſibeline,</hi> not as altogether untrue, but as very uncertain; paſſing by thoſe likewiſe we find mentioned during the Romans abode here, whoſe cuſtom it was to permit native Kings indeed in their Conquer'd Provin<g ref="char:EOLhyphen"/>ces, but only as inſtruments of Tyranny, and wholly de<g ref="char:EOLhyphen"/>pending on the authority of the Empire and its Prefects: We ſhall take our riſe from the Saxons rule, and eſpeci<g ref="char:EOLhyphen"/>ally at that time, when from a multiplyed Eſtate it grew towards an Union; And yet we cannot omit one paſſage we find Recorded of <hi>Cadwallader</hi> laſt King of the Britains on this ſide <hi>Severn;</hi> who at his death propheſied that his Race ſhould recover the Dominion of this Iſle again, which was fulfilled in the dayes of King <hi>Henry</hi> the ſe<g ref="char:EOLhyphen"/>venth, and more compleatly of King <hi>James,</hi> as will ap<g ref="char:EOLhyphen"/>pear when the ſeries and progreſſe of the Story doth bring us thereunto.</p>
+            <p>The Saxons, as hath been already hinted, made a ſe<g ref="char:EOLhyphen"/>venfold
+<pb n="5" facs="tcp:60649:5"/>
+partition of the Land they had wreſted from the Britains, but the Kingdom of the Weſt-Saxons (whoſe firſt ſtone was laid by <hi>Cerdic)</hi> did ſo increaſe in ſuper<g ref="char:EOLhyphen"/>ſtructure, that in the end it overtopped all the reſt.</p>
+            <p>
+               <hi>Ina,</hi> the fifth deſcendent of <hi>Cerdic,</hi> was the firſt ad<g ref="char:EOLhyphen"/>vancer of it to this prehemenency; but he dyed without iſſue, and the due order of the ſucceſſion was ſomewhat diſturbed, by the intruſion of four or five one after ano<g ref="char:EOLhyphen"/>ther, of the Blood-Royal indeed, but not in ſuch a pro<g ref="char:EOLhyphen"/>pinquity, as was <hi>Egbert</hi> Nephew but once removed from <hi>Ina,</hi> of whoſe right and promiſing forwardneſſe, <hi>Britric,</hi> the laſt of the Uſurpers, had ſo quick a ſenſe, that he contrived the deſtruction of young <hi>Egbert:</hi> Which to avoid, he was enforced to retire unto the Court of <hi>Offa</hi> King of <hi>Mercia</hi> or <hi>Middle England,</hi> but finding ſmall ſecurity there in regard his Enemy had married <hi>Offas</hi> daughter, he eſcapes thence into <hi>France;</hi> whence after the Tyrants death, he returns to the enjoyment of that Kingdome, which had been ſo long, and ſo unjuſtly de<g ref="char:EOLhyphen"/>tained from him.</p>
+            <p>This Prince (which we the rather note becauſe of the affinity he hath with the Condition of our Sovereign that now is) had by an exiles experience attained ſuch a mea<g ref="char:EOLhyphen"/>ſure of prudence, and all other perfections, that he much improved the Weſt-Saxon Empire, which was now well near arrived to its Meridian and heighth, when it ſuf<g ref="char:EOLhyphen"/>fered a moſt terrible Ecclipſe by the interpoſition of the Danes, who made their firſt irruption in his predeceſ<g ref="char:EOLhyphen"/>ſors dayes; and though they were valiantly reſiſted, and frequently repulſed by him and his Succeſſors; yet did they never after ceaſe from afflicting one part or other, till they had reduced the whole to their ſubjection, in which poſture they held it but a little while, as hath be<g ref="char:EOLhyphen"/>fore been intimated, and ſhall be more amply ſhewed in its due and proper place.</p>
+            <p>
+               <pb n="6" facs="tcp:60649:6"/>
+               <hi>Egbert</hi> being dead, <hi>Aethewolph</hi> his Son of a Biſhop be<g ref="char:EOLhyphen"/>came a Prince, and though his Education and Profeſſion had rendred him a greater Votary than Warriour, yet did he give the Danes a moſt memorable overthrow. He had four Sons, who were all Kings in their turns, but the glory of the reſt was <hi>Alfred,</hi> the youngeſt, no leſſe famous for Arts than Armes; in the firſt his Son <hi>Edward</hi> ſurnamed the Elder, is reported to have been inferiour, but in the laſt did equal, if not exceed his renowned Father.</p>
+            <p>This <hi>Edward</hi> often worſted, but could not totally extir<g ref="char:EOLhyphen"/>pate the Danes, who rcruited with freſh ſupplies from their own Comntry, made daily more and more en<g ref="char:EOLhyphen"/>croachments upon the already-tired Engliſh Nation, whoſe caſe at that time eſpecialy required ſome ſtrong prop or ſtay to ſuſtain and keep up its declining and tottering eſtate.</p>
+            <p>And upon this account it was that <hi>Athelſtane Edwards</hi> baſtard Son, being at full maturity and ripeneſſe, was preferred before his legitimate one <hi>Edmond</hi> then in mi<g ref="char:EOLhyphen"/>nority (the reaſon alſo that ſome ſucceeding Princes were for ſome time laid aſide) but <hi>Edmond</hi> being now come to Age, after his Brother <hi>Athelſtanes</hi> death (the nobleneſſe of whoſe life recompenced the blemiſh of his birth) was admitted to his Fathers Throne, which he did wiſely and couragiouſly manage, but was too ſoon deprived of it, and his life together, by a villanous Affaſſinate, in his own houſe at a feſtival, whilſt he went about to reſcue his Sewer from the violence of that barbarous hand.</p>
+            <p>The more than ordinary hopes conceived of this brave Prince being thus untimely nipped in the bud, his no<g ref="char:EOLhyphen"/>leſſe-deſerving Brother <hi>Eldred</hi> was elected King, not<g ref="char:EOLhyphen"/>withſtanding <hi>Edmond</hi> had left two Sons behind, whoſe tender years in thoſe troubleſome times were thought uncapable of ſo weighty an imployment.</p>
+            <p>
+               <pb n="7" facs="tcp:60649:6"/>
+But upon the death of <hi>Eldred,</hi> the Scepter (which is a thing to be taken notice of in precedent and ſubſeqent ruptures of this nature) reverted to the right Heirs, <hi>viz.</hi> the Sons of <hi>Edmond:</hi> And firſt to <hi>Edwin</hi> the eldeſt, whoſe diſſolute and degenerate courſes made ſudden room for <hi>Edgar</hi> the youngeſt, who matched any of his Predeceſ<g ref="char:EOLhyphen"/>ſors in worth, and excelled them all in power, for he quieted, and kept under, Danes, Welſh, Scots, inſo<g ref="char:EOLhyphen"/>much as he is accounted, at leaſt from the Saxons en<g ref="char:EOLhyphen"/>trance, the firſt abſolute Monarch of this entire Iſland.</p>
+            <p>In a word, he was happy in his life, and Reign, but moſt unhappy in his Iſſue, for having two Sons, <hi>Edward</hi> and <hi>Ethelred,</hi> by ſeveral venters; the Step-mother <hi>Elfred</hi> made <hi>Edward</hi> a Saint to make her own Son <hi>Etheldred</hi> a King; and though now by this removal of his Brother, whereunto poſſibly he might not be privy, none had any nearer title to the Crown than himſelf, yet did that in<g ref="char:EOLhyphen"/>nocent blood lye heavy upon him and his ſeed, nor could it, according to St. <hi>Dunſtans</hi> predictions, be expiated, but by a long avengement.</p>
+            <p>In promoting of which divine juſtice, the Danes were the principal inſtruments, who had layn ſtill under <hi>Edgar,</hi> but taking advantage of <hi>Ethelreds</hi> unſettled condition, who by reaſon of this fore-ſtalling the Crown was termed the unready, forced him firſt to purchaſe an ill-kept peace, and then to relinquiſh his ill-gotten Kingdom, of which death only prevented <hi>Swayn,</hi> his expeller, to take actual poſſeſſion, and accumulate this to the Daniſh Crown.</p>
+            <p>But <hi>Cnute</hi> the Son of <hi>Swayn</hi> perfected his Fathers deſign, and afforded <hi>Ethelred</hi> now returned out of <hi>Normandy,</hi> whither to avoid the ſtorm he had betook himſelf, ſo ſharp an entertainment that oppreſſed with grief for his bad ſucceſſe, he quitted this, and made another world his ſecond place of refuge, leaving his Son <hi>Edmond</hi> Inheri<g ref="char:EOLhyphen"/>tor of little elſe, but the miſeries of an unfortunate houſe.</p>
+            <p>
+               <pb n="8" facs="tcp:60649:7"/>
+Yet did <hi>Edmond,</hi> for his valour, and hardineſſe in War, ſurnamed <hi>Ironſide,</hi> hew himſelf out with his Sword the moiety of a Kingdom. For after the effuſion of much blood on both ſides, and to ſtop the ſhedding, of more it was agreed between the two Competitors <hi>(Cnute</hi> and <hi>Edmond)</hi> to try their right by ſingle combate, in proper perſon, and the over-commer to take all. But there pro<g ref="char:EOLhyphen"/>ving equality in the fight, there was likewiſe made equa<g ref="char:EOLhyphen"/>lity in the command between them; yet did not <hi>Edmond</hi> long enjoy his ſhare, being circumvented by the practice of <hi>Edric</hi> Earl of <hi>Stratton,</hi> the Arch-Traytor of thoſe times, whoſe falſhood had ruined the Father, and now his am<g ref="char:EOLhyphen"/>bition deſtroys the Son, for which <hi>Cnute</hi> invents a ſuit<g ref="char:EOLhyphen"/>able reward, cauſing his head to be ſet upon the higheſt place of the Tower of <hi>London,</hi> therein performing his pro<g ref="char:EOLhyphen"/>miſe of advancing him above any Lord of the Land, which was the mark that this faithleſſe wretch aimed at, and now attained, but in a far different ſence from that which he had vainly propoſed to himſelf.</p>
+            <p>
+               <hi>Cnute</hi> being thus rid of a Rival, denied copartnerſhip to the Sons of <hi>Edmond,</hi> as pretending the whole to apper<g ref="char:EOLhyphen"/>tain to the Survivor, and for fear they might prove thorns in his ſide, he ſent them far enough out of the way, into <hi>Swedeland,</hi> ſay ſome, there to be murthered, but they were mercifully preſerved, and conveyed to the Court of <hi>Hungary,</hi> where <hi>Edmond</hi> dyed without iſſue, but <hi>Edward</hi> had by <hi>Agatha</hi> Daughter to <hi>Henry</hi> the fourth Emperour of <hi>Germany,</hi> a Son named <hi>Edgar,</hi> and a Daughter called <hi>Margaret,</hi> who was the cauſe, as hereafter ſhall be ſhewed, that the Saxon ſtem which now ſeemed wither<g ref="char:EOLhyphen"/>ed, doth once more reflouriſh, though inocculated we con<g ref="char:EOLhyphen"/>feſſe, upon another ſtock.</p>
+            <p>Notwithſtanding this tranſportation of <hi>Edmonds</hi> Sons, yet did not <hi>Cnute</hi> hold himſelf ſufficiently aſſured of his new accquired Kingdom, till he had married <hi>Emma</hi> wid<g ref="char:EOLhyphen"/>dow
+<pb n="9" facs="tcp:60649:7"/>
+of <hi>Ethelred,</hi> whereby he gained the love of the Engliſh<hi>:</hi> but the promiſe he made in marriage, that the Children begotten on her ſhould ſucceed, was for ſome time fruſtrated by the preoccupa<g ref="char:EOLhyphen"/>tion of <hi>Harold,</hi> (ſurnamed <hi>Harefoot,)</hi> the el<g ref="char:EOLhyphen"/>deſt ſon of <hi>Cnute</hi> by a Concubine; but his reign was brief, as likewiſe was that of his Brother <hi>Hardi Canute,</hi> the lawfull Son of <hi>Cnute</hi> and <hi>Emma,</hi> with whom expired the Daniſh Dominion here, which had been but of a ſhort duration, though their incurſions and moleſtations had continued for a lon<g ref="char:EOLhyphen"/>ger ſpace.</p>
+            <p>
+               <hi>Edward</hi> ſtyled the Confeſſor, to diſtinguiſh him from <hi>Edward</hi> the Elder, and <hi>Edward</hi> the Saint, was next King, being the Son of <hi>Emma</hi> alſo, but by her firſt Husband <hi>Ethelred</hi> the Unready, and did in ſome ſort reſtore the Saxon blood: For in truth there was a nearer relation to the Crown extant, though not ſo near at hand for the preſent, to wit, <hi>Edward,</hi> ſurna<g ref="char:EOLhyphen"/>med, by reaſon of his Forein education, the <hi>Outlaw,</hi> the Son of <hi>Edmond Ironſide,</hi> the eldeſt Son by his firſt Wife of the above mentioned <hi>Ethelred</hi> the Unready, who ought by the Law of Nature and Nations to have preceded. Yet did the Confeſſor, wanting Iſſue him<g ref="char:EOLhyphen"/>ſelf, do his Nephew the <hi>Outlaw</hi> ſo much right, as to recall him with his Children out of their Baniſhment in <hi>Hungary,</hi> and deſigned him his Succeſſor, but the <hi>Outlaws</hi> death before the Confeſſors, prevented that determination.</p>
+            <p>Nevertheleſſe the Confeſſor without delay pro<g ref="char:EOLhyphen"/>nounced <hi>Edgar</hi> the <hi>Outlaws</hi> Son, and his own Grand Nephew Heir apparent, and gave him the ſurname of <hi>Etheling,</hi> which in thoſe dayes were only peculiar to ſuch as were inhopes and poſſibility of a Kingdome. And more than ſo, this poor <hi>Etheling</hi> never was: For
+<pb n="10" facs="tcp:60649:8"/>
+firſt he was debarred by his own Guardian <hi>Harold</hi> the Son of <hi>Goodwin</hi> Earl of <hi>Kent,</hi> who diſdaining the title of Regent (which he was only conſtituted) aſſumed that of King; Afterwards by <hi>William</hi> Duke of <hi>Normandy,</hi> who though he pulled down <hi>Harold,</hi> yet did he not ſet up <hi>Ed<g ref="char:EOLhyphen"/>gar,</hi> laying claim himſelf to the Crown, by virtue of a pretended Donation from his Coſen <hi>Edward</hi> the Confeſſor, which had been too weak a plea, had it not been juſtified by a long ſword, which hath ever ſince given him the appellation of <hi>William</hi> the Conquerour.</p>
+            <p>
+               <hi>Robert</hi> the eldeſt Son of the Conquerour ſhould by right of primogeniture have ſucceeded his Father in all his Dominions, but having proved a Rebel at the French Kings inſtigation, he had only the Dukedom of <hi>Normandy</hi> aſſigned to him, and the Crown of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> was bequeathed to his Brother <hi>William</hi> ſurnamed <hi>Rufus,</hi> who dying without any legitimate off-ſpring, and <hi>Robert</hi> being abſent in the Holy-land, <hi>Henry</hi> the youngeſt Son of the Conquerour as Duke of <hi>Normandy,</hi> but eldeſt as King of <hi>England,</hi> ſeized upon it, and to ingratiate himſelf with the Natives, and to corrobo<g ref="char:EOLhyphen"/>rate his Title, he Married <hi>Maud,</hi> Daughter of <hi>Mar<g ref="char:EOLhyphen"/>garet</hi> by <hi>Malcolme</hi> King of <hi>Scots,</hi> Siſter to <hi>Edgar Ethe<g ref="char:EOLhyphen"/>ling,</hi> Son of <hi>Edward</hi> the <hi>Outlaw,</hi> Son of <hi>Edmond Iron<g ref="char:EOLhyphen"/>ſide,</hi> Son of <hi>Ethelred</hi> the Unready, Son of <hi>Edgar</hi> the peaceable Son of <hi>Edmond,</hi> Son of <hi>Edward</hi> Senior, Son of <hi>Alfred,</hi> and by which means the Royal ſeed of the Saxons became to be replanted in the Engliſh Soil.</p>
+            <p>For this <hi>Henry</hi> the firſt had (not to mention his Son <hi>William</hi> who periſhed by water whilſt he was young) by the foreſaid <hi>Maud,</hi> a Daughter of the ſame name, whom he firſt eſpouſed to <hi>Henry</hi> the fifth, Emperour of <hi>Germany,</hi> afterwards to <hi>Jeffrey Plantagenet</hi> Earl of <hi>Aniou,</hi> by whom ſhe had a Son called <hi>Henry,</hi> in whom did fully concur the Norman and Saxon Race.</p>
+            <p>
+               <pb n="11" facs="tcp:60649:8"/>
+But the true hereditary ſucceſſion was ſomewhat intercepted by <hi>Stephen</hi> Earl of <hi>Bologne</hi> Son of <hi>Adela</hi> the Conquerours Daughter, from whom he could derive but a ſlender title: For had the Conquerours line Maſculine failed, then ought <hi>Theobald</hi> Earl of <hi>Bloys, Stephens</hi> Eldeſt Brother by the ſame <hi>Adela,</hi> to have been prelated; And therefore his ſureſt Tenure pro<g ref="char:EOLhyphen"/>ceeded from his Election by the Nobility, who not<g ref="char:EOLhyphen"/>withſtanding their natural Allegiance, and twice re<g ref="char:EOLhyphen"/>peated Oath (and among them <hi>Stephen</hi> himſelf is reckoned to be one that had ſworn Fealty) to <hi>Maud</hi> and her Heirs in the Reign of her Father <hi>Henry,</hi> ad<g ref="char:EOLhyphen"/>mitted this ſtranger, and that for no other reaſon, though other were alleged (as that <hi>Maud</hi> was a wo<g ref="char:EOLhyphen"/>man, and conſequently uncapable of anointing; that ſhe was married out of the Realm, without the con<g ref="char:EOLhyphen"/>ſent thereof, which if of any moment ſhould before their ſolemn engagement have been taken into conſi<g ref="char:EOLhyphen"/>deration) than that he being a Creature of their own erecting, was more obliged to them, and would upon all occaſions be more ready to gratifie their aſpiring humour.</p>
+            <p>Yet wanted not the Empreſſe and her Son adherents both within and without the Kingdom, to aſſert their right, who raiſed ſuch a cloud of trouble to, <hi>Stlphen</hi> that he could not diſpel it during his whole reign, ſo that at length he came to a compoſition, and his own Son <hi>Euſtace</hi> whom he had deſigned his Succeſſour being al<g ref="char:EOLhyphen"/>ready dead, he adopts <hi>Henry</hi> fitz-Empreſſe, and pro<g ref="char:EOLhyphen"/>claims him heir apparent, with this Proviſo; That he himſelf ſhould enjoy the Crown as long as he lived, which was not a full year after this peaceable agree<g ref="char:EOLhyphen"/>ment.</p>
+            <p>
+               <hi>Henry</hi> the ſecond of that name is now poſſeſſed of the Throne, (in proceſſe of time adding the Lord<g ref="char:EOLhyphen"/>ſhip
+<pb n="12" facs="tcp:60649:9"/>
+of <hi>Ireland</hi> to it) and that upon a treble account.</p>
+            <p>Firſt by vertue of the late Treaty with King <hi>Stephen,</hi> Secondly by title of conqueſt, as being great Grand-Child to <hi>William</hi> the Norman; but Thirdly, and chief<g ref="char:EOLhyphen"/>ly, by the equity of his Mothers claim, who was the true deſcendent of the long-rejected but now reſtored Saxon linage.</p>
+            <p>He took to wiſe <hi>Elenor,</hi> the repudiate of <hi>Lewis</hi> the ſeventh King of <hi>France,</hi> by whom he had large Dominions in that Kingdom: but notwithſtanding it augmented his eſtate, yet was it the occaſion of much trouble and vexation to him; For the French King jea<g ref="char:EOLhyphen"/>lous of his growing fortunes, and his own Queen of his fidelity to his marriage-bed, incited his Sons, <hi>Hen<g ref="char:EOLhyphen"/>ry, Richard, Jeffrey,</hi> and <hi>John,</hi> to frequent rebellions, to whom nevertheleſſe upon their ſubmiſſions he was entirely reconciled.</p>
+            <p>
+               <hi>Henry</hi> Sans iſſue departed this life before his Father. <hi>Richard</hi> ſucceeded in the Throne but dyed childleſſe alſo; <hi>Jeffrey,</hi> though extinct himſelf before it came to his turn, had yet left a Son in being, <hi>Arthur</hi> Duke of <hi>Britany,</hi> who ought to have been conſidered of; but him <hi>John</hi> prevented more too, by power &amp; favour of the Nobles, than by any colour of Juſtice, nad whilſt the young Prince endeavours the recovery of his right, he is taken priſoner as he beſieged the Caſtle of <hi>Mira<g ref="char:EOLhyphen"/>bell</hi> in <hi>France,</hi> conveyed to the Tower of <hi>Roan,</hi> and there killed, if not by the hands, yet at leaſt by the com<g ref="char:EOLhyphen"/>mand of his inhumane Uncle.</p>
+            <p>However the courſe taken to be thus rid of a Com<g ref="char:EOLhyphen"/>petitor was utterly unlawfull, yet being gon, <hi>Iohn</hi> becomes the lawful proprietor of the Crown, but pays dear for the manner of this his amiſſe procured purchaſe. For the <hi>Pope</hi> excommunicates him, his Subjects forſake him, the French King invades him,
+<pb n="13" facs="tcp:60649:9"/>
+and bereavs him not only of his large Territories i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>France,</hi> but alſo of the greateſt part of his Kingdome of <hi>England,</hi> and he dyes miſerably, not without ſuſpi<g ref="char:EOLhyphen"/>cion of Poyſon; a juſt judgment upon him for his e<g ref="char:EOLhyphen"/>normous Acts, eſpecialy the murder of his innocent Nephew.</p>
+            <p>Now though God ſhewed himſelf a ſevere inqui<g ref="char:EOLhyphen"/>ſitor for blood, yet did he ſeem appeaſed with the puniſhment of the perſon that was guilty of it: For he ſo diſpoſed the hearts of the Engliſh Nation, that they generally withdrew themſelves from the French party, and notwithſtanding the iniquity of the Fa<g ref="char:EOLhyphen"/>ther, moſt willingly embrace the Son, then a minor, as naturally inclined, ſays my Author, to love and o<g ref="char:EOLhyphen"/>bey their Princes.</p>
+            <p>Such this Prince <hi>Henry</hi> the third found his Subjects at his firſt admiſſion, whilſt he was governed by a wiſe and faithfull Councel, but afterwards ſuffering himſelf to be ruled by ſtrangers, that more intended their own than the publick good, he ſo alienated the Engliſh affections, as that they are as ready now to revolt from him, as they were earneſt at firſt to pro<g ref="char:EOLhyphen"/>mote his intereſt. To the former he adds new grievan<g ref="char:EOLhyphen"/>ces, to wit, reiterated breach of Charters granted by his Predeceſſors, and himſelf, whence ſuch diſcontents are engendred, that at length there is begotten between the King and his people an actual (commonly known by the name of the Barons) war. Hereof of <hi>Simon de Mon<g ref="char:EOLhyphen"/>fort</hi> Earl of <hi>Leiceſter,</hi> on the Barons ſide was head, who in a ſet Battail takes King <hi>Henry</hi> and his Son <hi>Edward</hi> priſoners, but <hi>Edward</hi> eſcapes, collects an Army, de<g ref="char:EOLhyphen"/>feats and kills <hi>Leiceſter,</hi> and redeems his Father, the be<g ref="char:EOLhyphen"/>ginning of whoſe reign was overcaſt with a French miſt, the middle was very tempeſtous by reaſon of the Barons commotions, but the Cataſtrophe or latter
+<pb n="14" facs="tcp:60649:10"/>
+part was ſerene, and concluded in a perfect Calm.</p>
+            <p>
+               <hi>Edward</hi> the firſt of that name ſince the Norman con<g ref="char:EOLhyphen"/>queſt, having proved the deliverer of his Father from captivity, makes an expedition into the <hi>Holy-land</hi> to perform the like office to the Chriſtians there, that were grievouſly afflicted under the Turkiſh ſervitude: but the news of his Fathers death quickly recalls him from further proſecution of that honourable enter<g ref="char:EOLhyphen"/>prize; wherein he had no leſſe honourably demeaned himſelf.</p>
+            <p>And as he had encreaſed his own and Countries re<g ref="char:EOLhyphen"/>putation abroad, ſo doth he likewiſe enlarge their power and juriſdiction at home, by ſubduing moſt of <hi>Scotland,</hi> and totally reducing of <hi>Wales,</hi> of which laſt, becauſe it was then firſt annexed to this Crown, it will not be impertinent to afford the Reader a brief and ſummary relation.</p>
+            <p>
+               <hi>Wales</hi> (the ſmall remnant of this Iſland that was left to the Britains the antient poſſeſſors of the whole) had hitherto, though not without much difficulty and ſtruggling, continued under their own proper Princes: But the fatal period of their liberty, which they had ſo long, ſo ſtoutly maintained, againſt ſo potent a King<g ref="char:EOLhyphen"/>dome, as this, is now arrived. <hi>Llewellin</hi> the then Prince of that Country, being ſummoned to our Kings Coronation, refuſed to appear, ſaying, He too well remembers the end of his Father <hi>Gryffin,</hi> who came in ſafety to <hi>London,</hi> but never returned thence.</p>
+            <p>This neglect, <hi>Edward</hi> makes the ground of a quar<g ref="char:EOLhyphen"/>rel, enters into hoſtility againſt <hi>Llewellin,</hi> forces him to a ſubmiſſion, whereof he ſoon repents, flyes out again, is overcome and ſlain in fight, his head cut off, and that <hi>Merlins</hi> Prophecy might be fulfilled or eluded, which, as he interpreted, had promiſed him the Dia<g ref="char:EOLhyphen"/>dem of <hi>Brute,</hi> it is Crowned with Ivy, and ſet upon the Tower of <hi>London.</hi>
+            </p>
+            <p>
+               <pb n="15" facs="tcp:60649:10"/>
+After the death of <hi>Llewellin</hi> and his brother <hi>David,</hi> (whoſe head was ſhortly ſent to accompany the o<g ref="char:EOLhyphen"/>thers in the ſame place) <hi>Edward</hi> contrives the perpe<g ref="char:EOLhyphen"/>tual union of theſe two, too long divided, Nations. And though he found the Welſh Nobles very cautious how they brought their necks under a Forein yoke, yet doth he accompliſh his ends by this neat and Ar<g ref="char:EOLhyphen"/>tificial deviſe.</p>
+            <p>He conveys ſecretly into the Caſtle of <hi>Carnarvon,</hi> his Queen great with Child, whom when he under<g ref="char:EOLhyphen"/>ſtood to be delivered of a boy, he Aſſembles the Welſh Nobles, and propoſeth to them, whether they would accept of a Prince of his Nomination, that was born in their own Country, could ſpeak nere a word of Engliſh, and againſt whom for Life or Converſati<g ref="char:EOLhyphen"/>on no objection could be made: Whereunto when they had aſſented, he produces his own little Son <hi>Ed<g ref="char:EOLhyphen"/>ward,</hi> to whom the aforeſaid qualifications did exactly agree; Hence the cuſtom took its original of inveſting our Kings eldeſt Sons in the Principality of <hi>Wales:</hi> but becauſe there may here ſeem to have been a mixture of force and fraud, we ſhall indeavour, when order brings us to it, to find out a more unexceptionable Title, whereby our Kings lay claim to that Domi<g ref="char:EOLhyphen"/>nion.</p>
+            <p>
+               <hi>Edward</hi> the ſecond (called <hi>Edward</hi> of <hi>Carnarvon</hi> for the cauſe but even now rehearſed) much degenerated from his Fathers Nobleneſſe, and loſt not only <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> which his Father had well-nigh gained, but e<g ref="char:EOLhyphen"/>ver <hi>England</hi> it ſelf, being depoſed by his own Wife <hi>Iſa<g ref="char:EOLhyphen"/>bel,</hi> having only this comfort left him, that his Son <hi>Edward</hi> was to ſucceed in the Throne.</p>
+            <p>
+               <hi>Edward</hi> the third of that name, Son of the late de<g ref="char:EOLhyphen"/>poſed and ſhortly after murdered King, was, when he came to years of Diſcretion, Gods Inſtrument to re<g ref="char:EOLhyphen"/>venge
+<pb n="16" facs="tcp:60649:11"/>
+his Fathers death, even upon his own Mother the Queen and her Minion <hi>Mortymer,</hi> who was the Author and Procurer of the ſame.</p>
+            <p>But the chiefeſt paſſage of this Princes Reign, and that of neareſt Alliance to our Subject in hand, which is to declare the Titles our Kings have to the King<g ref="char:EOLhyphen"/>doms they poſſeſſe or challenge, was his claiming and almoſt obteining the Crown of <hi>France.</hi> The occaſi<g ref="char:EOLhyphen"/>on and State of the difference was briefly thus.</p>
+            <p>
+               <hi>Phillip de Valois</hi> the then King of <hi>France,</hi> had with ſomewhat too much rigour demanded, and with too much Imperiouſneſſe received the Homage of our <hi>Ed<g ref="char:EOLhyphen"/>ward</hi> for ſome pieces which he held in that Kingdom. But <hi>Edwards</hi> high Stomach could not digeſt the indig<g ref="char:EOLhyphen"/>nity, as he conceived of this humiliation, conſidering but ſomewhat of the lateſt, that he had a better right not to fragments only, but to the whole, than the perſon to whom he had ſo lowly abaſed himſelf: For <hi>Edward</hi> was the Son of <hi>Iſabell,</hi> Daughter of <hi>Philip le bell</hi> or the fair, formerly King of <hi>France,</hi> whereas <hi>Philip,</hi> the preſent injoyer, was Son to <hi>Charls</hi> of <hi>Valois</hi> but younger Brother to the foreſaid <hi>le bell,</hi> only there is one frivolous impediment in <hi>Edwards</hi> way, to wit, the French Law Salique, which debars Females &amp; their Deſcendents from the Crown: but this entail <hi>Edward</hi> is reſolved to cut off with a good Sword; And to this purpoſe he enters <hi>France</hi> with a ſtrong Army, and gave the French two ſuch famous overthrows at <hi>Creſſy</hi> and <hi>Poictiers,</hi> that they put that State into a dangerous Conſumption, which without all doubt would have turned to an Hectick Feavour, had the War been pro<g ref="char:EOLhyphen"/>ſecuted with the ſame heat wherewithall it was begun.</p>
+            <p>A great allay to theſe proſperous proceedings, was the untimely death of <hi>Edwards</hi> eldeſt Son <hi>(Edward)</hi> Prince of <hi>Wales,</hi> but better known by the name of the
+<pb n="17" facs="tcp:60649:11"/>
+Black Prince, to whoſe proweſſe the former Atchiev<g ref="char:EOLhyphen"/>ments in <hi>France</hi> were chiefly owing, who having made an inroad into <hi>Spain</hi> to reinthrone their K. <hi>Peter,</hi> brought thence Victory and a mortal Diſeaſe, which quickly made an end of him, leaving behind him a young Son, <hi>Richard</hi> of <hi>Bourdeux,</hi> to whom <hi>Edward</hi> the Grand-Father, yet living, confirmed the ſucceſſion by Parliament, leſt his aſpiring Son <hi>Iohn</hi> Duke of <hi>Lancaster, Richards</hi> Uncle, ſhould<g ref="char:punc">▪</g> as one obſervs, have ſupplanted him, as King <hi>Iohn</hi> did his Nephew <hi>Arthur</hi> in the like caſe.</p>
+            <p>But what <hi>Iohn</hi> of <hi>Gaunt</hi> Duke of <hi>Lancaster</hi> failed in, his Son <hi>Henry</hi> of <hi>Bu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lingbrook</hi> Duke of <hi>Hereford</hi> effected: By depoſing his Coſen German <hi>Richard</hi> the ſecond, who is rather noted to be an unfortunate than vitious, a ſeduced than of himſelf Tyrannical Prince.</p>
+            <p>It will be no deviation from the matter, but rather requiſite in regard of the light it yields to the clearer and more diſtinct knowledge of the following confuſi<g ref="char:EOLhyphen"/>ons, to ſpeak ſomewhat more particularly of the manner of this <hi>Henryes</hi> compaſſing the Crown, the claim he laid to it, and the courſe he took to ſettle the ſucceſſion in his own houſe, this being the Fountain from which flowed the moſt bloody and moſt tedious Civil Wars that ever <hi>England</hi> endured, this being the great ball of contention between the White Roſe and the Red, between the Yorkiſh and Lancaſtrian Family.</p>
+            <p>
+               <hi>Henry</hi> the fourth of that name among the Engliſh Kings, was, as hath been noted before, the Son of <hi>Iohn</hi> of <hi>Gaunt</hi> Duke of <hi>Lancaster,</hi> fourth Son of King <hi>Edward</hi> the third; His Father was ſuſpected, but he is detected, of higher thoughts than it became a Sub<g ref="char:EOLhyphen"/>ject (he being then but Duke of <hi>Hereford)</hi> to entertain.</p>
+            <p>For juſtification of himſelf, <hi>Hereford</hi> appeals to his Sword, and offers combat to <hi>Thomas Mowbray</hi> Duke of <hi>Norfolk</hi> his Accuſer, who couragiouſly accepts
+<pb n="19" facs="tcp:60649:12"/>
+thereof: But as they were about to joyn iſſue, King <hi>Richard</hi> interpoſes and baniſhed them both, out of the Realm, <hi>Norfolk</hi> for ever, <hi>Hereford</hi> for ten years; four of which the King ſtruck off as of ſpecial favour, when he came to take his ſolemne leave of him. But <hi>Here<g ref="char:EOLhyphen"/>ford</hi> himſelf doth much more abbreviate the time, and doth long anticipates even the laſt indulged date of his return: For he re-lands the very ſame day twelve<g ref="char:EOLhyphen"/>month he departed, and found many Abettors of his quarrel (which at firſt he only pretends to be the reco<g ref="char:EOLhyphen"/>very of his Dukedom) eſpecially the Earl of <hi>Nor<g ref="char:EOLhyphen"/>thumberland,</hi> whom King <hi>Richard</hi> at his late going into <hi>Ireland,</hi> where now he is, becauſe the Earl demurred to accompany him in the Voyage, had cauſed to be proclaimed Traytor, and ſo made him that, which otherwiſe perhaps he would not have been. But <hi>Hen<g ref="char:EOLhyphen"/>ries</hi> Power more and more increaſing, and <hi>Richards</hi> dayly decreaſing, till at length it languiſhed into no<g ref="char:EOLhyphen"/>thing, <hi>Henry</hi> diſcovers, that it was ſomwhat more than a bare Dukedom that he aimed at: A Parliament is called, in which King <hi>Richard</hi> as is pretended, not only voluntarily ſurrenders, but is alſo violently degraded, and <hi>Henry,</hi> both by his and the peoples appointment, inſtalled in his Room, who upon the day of his Co<g ref="char:EOLhyphen"/>ronation, cauſed it to be proclaimed, that he claim<g ref="char:EOLhyphen"/>ed the Crown of <hi>England,</hi> Firſt, by right of Conqueſt; Secondly, becauſe King <hi>Richard</hi> had reſigned his Eſtate, and deſigned him his Succeſſor; Laſtly, becauſe he was of the Blood Royal, and next Heir Male to King <hi>Richard.</hi> Heir Male, rather <hi>Hae<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es Malus,</hi> ſayes <hi>Edmond Mortim<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r</hi> Earl of <hi>March</hi> to ſome of his Familiars, as knowing the lawful right to be inherent in himſelf, though for the preſent it muſt give place to a ſtronger poſſeſſor. For this <hi>Edmond</hi> was the Son of <hi>Roger,</hi> the Son of <hi>Edmond</hi>
+               <pb n="19" facs="tcp:60649:12"/>
+Earl of <hi>March,</hi> by <hi>Philip</hi> Daughter of <hi>Lionel</hi> Duke of <hi>Clarence,</hi> who was elder Brother to <hi>Iohn</hi> Duke of <hi>Lan<g ref="char:EOLhyphen"/>caſter,</hi> King <hi>Henryes</hi> Father. Hereof <hi>Henry</hi> is very ap<g ref="char:EOLhyphen"/>prehenſive, and having diſpatched <hi>Richard</hi> to Heaven before his time, wiſhed <hi>Mortimer</hi> there alſo, and in order to his haſtening thither, refuſed to procure his liberty and enlargement, but ſuffered him to con<g ref="char:EOLhyphen"/>tinue in a loathſome Dungeon, though he had been taken Priſoner in defence of his Country againſt <hi>Owen ap Glendower,</hi> the famous Revolter of <hi>Wales,</hi> who there<g ref="char:EOLhyphen"/>fore the more hardly uſed him, that thereby his Kinſman King <hi>Henry</hi> might be moved to redeem him, but therefore King <hi>Henry</hi> would not redeem him, be<g ref="char:EOLhyphen"/>cauſe he well hoped by this hard uſage to be rid of him, who was like to prove the greateſt prejudice to his crazy and counterfeit Title. For it was obvious to all, however for fear diſſembled by moſt, that the iſſue of <hi>Lionel</hi> Elder Son of King <hi>Edward</hi> the third, ought to have preceded <hi>Iohn</hi> of <hi>Gaunts</hi> the younger Son of the foreſaid <hi>Edward;</hi> And hence it was, that <hi>Henry</hi> doth not ſolely rely upon his Fathers right, which he knew to be infirm, as long as any of <hi>Lionels</hi> off-ſpring remained, but joyns to it that of his Mother <hi>Blanch,</hi> Daughter and Heir to <hi>Henry</hi> Duke of <hi>Lan<g ref="char:EOLhyphen"/>caſter,</hi> Son of <hi>Edmond,</hi> nick-named <hi>Crook-back,</hi> eldeſt Son, as was alleged, of King <hi>Henry</hi> the third, but by reaſon of his deformity put by the ſucceſſion, which was for that cauſe conferred upon King <hi>Edward</hi> the firſt, though but the younger Brother; But the truth is, in this pedigree there is an Error in the very Foundation, for though our <hi>Henry</hi> were ſo deſcended as is ſpecified, from <hi>Edmond,</hi> yet the ſaid <hi>Edmond</hi> was neither eldeſt Son to <hi>Henry</hi> the third, nor yet a defor<g ref="char:EOLhyphen"/>med perſon, but a proper Gentleman, and a great Commander, therefore entitled <hi>Crook-back,</hi> or rather
+<pb n="20" facs="tcp:60649:13"/>
+               <hi>Crouch-back,</hi> becauſe he had took upon him the Croſſe, and according to the Cuſtom of thoſe days warred in the Holyland.</p>
+            <p>Thus appears the invalidity of <hi>Henryes</hi> claim, whe<g ref="char:EOLhyphen"/>ther from the Father, as unſound, or the Mother, as ſuſpitious, and deceitful, or from King <hi>Richard</hi> reced<g ref="char:EOLhyphen"/>ing, as extorted by force in reſtraint, and ſo of no force, or of conſent of the many, there being no Cuſtom in the Engliſh Nation for popular elections, or by Conqueſt, which in a Subject againſt his Sove<g ref="char:EOLhyphen"/>raign is Inſurrection, and Victory high Treaſon, as was well obſerved by the Biſhop of <hi>Carlile</hi> in his ſpeech in that very Parliament, where this buſineſs was agitated and tranſacted.</p>
+            <p>Nay further, there is a tradition, that <hi>Iohn</hi> of <hi>Gaunt</hi> (Fa<g ref="char:EOLhyphen"/>ther of this <hi>Henry)</hi> was not at all the Son of King <hi>Ed<g ref="char:EOLhyphen"/>ward,</hi> but that the Queen being deliver'd of a female child, knowing how unacceptable it would be to her Husband, exchanged it for a boy with a Dutch wo<g ref="char:EOLhyphen"/>man, who had been brought to bed about the ſame hour: This the Queen at her death confeſſed to <hi>Willi<g ref="char:EOLhyphen"/>am</hi> of <hi>Wickman</hi> Biſhop of <hi>Winchester,</hi> who acquainted none with i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but <hi>John</hi> of <hi>Gaunt</hi> himſelf, and that when he perceived <hi>Iohn</hi> to affect the Crown, in which caſe the Mother had left the Biſhop free: But this being but a report, a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d grounded on uncertainties, would have been no bar to <hi>Henry's</hi> title, had it been clear in all other reſpects.</p>
+            <p>
+               <hi>Henry,</hi> as he had injuriouſly obtained a Kingdom, ſo doth he labori<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſly preſerve the ſame; for the mani<g ref="char:EOLhyphen"/>fold conſpiracies againſt him teſtifie that quiet is not a Concomitant of uſurped greatneſſe; and was in a manner bereaved of his Crown, before he was of his life<hi>:</hi> For he being ſeized upon by a deep fit of the A<g ref="char:EOLhyphen"/>poplexy, his Son <hi>Henry</hi> ſeized upon the Crown, where<g ref="char:EOLhyphen"/>of,
+<pb n="21" facs="tcp:60649:13"/>
+when the Father reviving demanded the reaſon, his anſwer was, That in his and all mens judgement there preſent, he was dead, and then ſays he, I being next Heir apparent to the ſame, took it as my indubi<g ref="char:EOLhyphen"/>tat right; Well ſaid the King, and ſighed, Son, what right I had to it, God knoweth; but ſaith the Prince, If you dye King, I doubt not to hold it, as you have done, againſt all oppoſers.</p>
+            <p>Which expreſſion this incomparable King <hi>Henry</hi> the fifth did make good even to ſupererogation<hi>:</hi> for a<g ref="char:EOLhyphen"/>bandoning his youthfull extravagancies, whereof he is ſeverely taxed, he embraces more ſolid courſes, and to vent any diſcontented humours at home, which by ſtanding ſtill might corrupt, and gather putrefaction, he meditates a war with <hi>France,</hi> and awakens the Engliſh title to it, which had lyen dormant ever ſince his great Grand-Fathers days.</p>
+            <p>But whilſt he is in preparation for this great affair, he either makes or diſcovers a plot againſt his life, by <hi>Richard</hi> Earl of <hi>Cambridge,</hi> who had married <hi>Anne</hi> Siſter and Heir of <hi>Edmond Mortimer,</hi> Earl of <hi>March,</hi> before remembred, who was the true heir of the Crown, and was the true cauſe of Earl <hi>Richards</hi> execu<g ref="char:EOLhyphen"/>tion: for it cannot be imagined that money alone would induce ſo noble a perſon to ſo foul an under<g ref="char:EOLhyphen"/>taking. And the event ſhews that there was ſomwhat more than Bribery in this att<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mpt, when we ſhall find the Son of this late executed Earl, diſpoſſeſſing his Son, who was the Author of his Fathers Tragedy.</p>
+            <p>
+               <hi>Henry</hi> having thus eaſed himſelf of a great Pretender, proceeds to his intended deſign on <hi>France,</hi> where he ſo proſperouſly ſpeeds, that he is conſtituted Regent, &amp; de<g ref="char:EOLhyphen"/>clared Heir apparent of the doting French King, whoſe Daughter <hi>Katherine</hi> he marries, &amp; by her hath a Son na<g ref="char:EOLhyphen"/>med <hi>Henry,</hi> of whom the King is ſaid to have thus pro<g ref="char:EOLhyphen"/>pheſyed;
+<pb n="22" facs="tcp:60649:14"/>
+I <hi>Henry</hi> born at <hi>Monmouth,</hi> ſhall ſmall time reign and much get, and <hi>Henry</hi> born at <hi>Windſor</hi> ſhall long reign and loſe all.</p>
+            <p>And ſo indeed it came to paſſe through the ſecret operation of all-diſpoſing Providence, which is ſel<g ref="char:EOLhyphen"/>dome propitious to the owners (how good in them<g ref="char:EOLhyphen"/>ſelves ſoever they be) of ill-gained inheritances be<g ref="char:EOLhyphen"/>yond the third ſucceſſion. And hereof our preſent <hi>Henry</hi> the ſixth is a great example, who was the meek<g ref="char:EOLhyphen"/>eſt and moſt religious of all our Kings that had been before, and yet for no other tranſgreſſion that we know of, than the original Sin of his Grand-Father, <hi>Henry</hi> the fourth, medling with the forbidden fruit of a Crown his ere it was ripe for him, is be chaſed out of the terreſtial Paradiſe of all his Kingdoms, and ſent to be a partaker of a Celeſtial one, ſomwhat more early than the due courſe of nature had deſigned him for it.</p>
+            <p>For that covert fire which had a long time burned in the breaſts of many, to ſee the Lancaſtrian race enioy anothers right, doth now break forth into open com<g ref="char:EOLhyphen"/>buſtion, of which <hi>Richard</hi> Duke of <hi>York</hi> is the prime incendiary, the Son of <hi>Richard</hi> Earl of <hi>Cambridge,</hi> who was beheaded in King <hi>Henry</hi> the fifths reign, for ſuppoſed Treaſon, the Son of <hi>Edmond</hi> Duke of <hi>York,</hi> the fifth Son of King <hi>Edward</hi> the third.</p>
+            <p>But Duke <hi>Richard</hi> waves all pretenſions by the Fa<g ref="char:EOLhyphen"/>thers ſide, as not being ignorant, that <hi>John</hi> of <hi>Gaunt</hi> (from whom our preſent <hi>Henry</hi> is directly deſcended) was elder brother to his Grandfire <hi>Edmond,</hi> and there<g ref="char:EOLhyphen"/>fore in Parliament only produceth his title by the Mo<g ref="char:EOLhyphen"/>ther, as being the Son and Heir of <hi>Anne,</hi> Siſter and Heir of <hi>Edmond,</hi> Son and Heir of <hi>Roger Mortymer</hi> Earl of <hi>March,</hi> Son and Heir of <hi>Philippa,</hi> the ſole Daughter and Heir of <hi>Lionel</hi> Duke of <hi>Clarence,</hi> the third Son of
+<pb n="23" facs="tcp:60649:14"/>
+               <hi>Edward</hi> the third, and elder Brother of <hi>John</hi> of <hi>Gaunt,</hi> Duke of <hi>Lancaster,</hi> Father of the Uſurper <hi>Henry</hi> the fourth, Grand-Father of <hi>Henry</hi> the fifth, who was Fa<g ref="char:EOLhyphen"/>ther to him, who now (ſays <hi>Richard)</hi> untruly ſtileth himſelf King <hi>Henry</hi> the ſixth.</p>
+            <p>Beſides his holding forth his claim to the Crown in this demonſtrative, and undeniable manner (which yet the judicious could only penetrate) the Duke ad<g ref="char:EOLhyphen"/>deth many Rhetorical aggravations, which were more ſuitable, and intelligible to vulgar ears; As that the King was ſimple, and of weak capacity; that he was Governed by the Queen a ſtranger, and Wo<g ref="char:EOLhyphen"/>man of an unſufferable ambition; that the Privy Counſellors were naught and corrupt, through whoſe faithleſſeneſſe and inabilities, <hi>France</hi> was loſt, and <hi>England</hi> diſquieted, and that greater judgements were to be expected, if the true Heir were any longer de<g ref="char:EOLhyphen"/>barred from his lawful right.</p>
+            <p>The Duke by theſe plauſible arguments had ſo en<g ref="char:EOLhyphen"/>gaged the multitude unto him, that he is able to diſ<g ref="char:EOLhyphen"/>pute his Title in the Field with the King, whom he takes Priſoner, and calling in his name a Parliament, it is there concluded, that King <hi>Henry</hi> during his life, ſhould retain the name and Honour of a King; that the Duke of <hi>York</hi> ſhould be Proclaimed Heir apparent to the Crown, and Protector of the Kings Perſon and Dominions; that if at any time King <hi>Henries</hi> Friends, Allies, or Favorites, in his behalf ſhould attempt the diſannulling of this Act, that then the Duke ſhould have preſent poſſeſſion of the Crown.</p>
+            <p>But this was more than what his deſtiny had allot<g ref="char:EOLhyphen"/>ted for him, for he was ſhortly after ſlain at the Bat<g ref="char:EOLhyphen"/>tail of <hi>Wakefield</hi> by Queen <hi>Margaret,</hi> who was of a more Maſculine Spirit, than to acquieſce in the fore-mentioned diſhonorable Conditions; and becauſe it
+<pb n="24" facs="tcp:60649:15"/>
+was a Crown that the Duke of <hi>York</hi> chiefly affected, She cauſed his Head to be cut off, ſee upon a Pole, and Crowned with Paper: but the death and diſgrace of the Father, <hi>Edward</hi> Earl of <hi>March,</hi> his Eldeſt Son doth ſpeedily revenge to the utter ruine of the Lanca<g ref="char:EOLhyphen"/>ſtrian party.</p>
+            <p>Nor will this <hi>Edward,</hi> as did his Father, await a<g ref="char:EOLhyphen"/>nothers leaſure, and prove expectant of a Crown in reverſion, but immediately aſſumes it by the actual depoſing of King <hi>Henry,</hi> whom he takes Priſoner, and commits to ſafe cuſtody in the Tower of <hi>London.</hi>
+            </p>
+            <p>But there was an accident which had well-nigh nip<g ref="char:EOLhyphen"/>ped the white Roſe in the bud, and reſtored the red Roſe to its priſtine vigour.</p>
+            <p>
+               <hi>Edward</hi> the fourth, late Earl of <hi>March,</hi> now King of <hi>England,</hi> ſends his great General the Earl of <hi>War<g ref="char:EOLhyphen"/>wick</hi> to treat a Match between him, and the Lady <hi>Bo<g ref="char:EOLhyphen"/>na</hi> Siſter to the Queen of <hi>France.</hi> But our youthful King in the mean time conſulting only his own affections, takes to Wife, the fair Lady <hi>Gray,</hi> Widdow of Sir <hi>John Gray</hi> of <hi>Groby;</hi> which ſo incenſes <hi>Warwick,</hi> that he Rebels againſt his Maſter, beats him not only out of the Field, but alſo out of the Kingdom, delivers King <hi>Henry</hi> from his Priſon, and reſeats him in his Throne; but all this is but as Lightning before Death; <hi>Edward</hi> returns from beyond Seas, fights with, de<g ref="char:EOLhyphen"/>feats and kills the Earl of <hi>Warwick,</hi> routs alſo Queen <hi>Margaret</hi> newly landed, and the relicts of her Lan<g ref="char:EOLhyphen"/>caſtrian Aſſociates, takes her and her Son <hi>Edward</hi> Priſoners, which laſt is ſtabbed by <hi>Richard</hi> Duke of <hi>Gloceſter,</hi> King <hi>Edwards</hi> Brother; and not long it is, but the Father <hi>Henry</hi> is diſpatched by the ſame hand in the Tower of <hi>London,</hi> whither he was remanded by King <hi>Edward</hi> after this fortunate and victorious ſuc<g ref="char:EOLhyphen"/>ceſſe.</p>
+            <p>
+               <pb n="25" facs="tcp:60649:15"/>
+The cruelty of <hi>Richard</hi> Duke of <hi>Gloceſter,</hi> whoſe na<g ref="char:EOLhyphen"/>ture was more crooked than his body, did not termi<g ref="char:EOLhyphen"/>nate in the blood of his Enemies, but begins to pra<g ref="char:EOLhyphen"/>ctiſe on his Friends and neareſt Relations: For per<g ref="char:EOLhyphen"/>ceiving that King <hi>Edward</hi> by reaſon of his incontinen<g ref="char:EOLhyphen"/>cy, whereunto no Engliſh Prince was ever more ſub<g ref="char:EOLhyphen"/>ject, was not long liv'd, he ſecretly plots the attain<g ref="char:EOLhyphen"/>ing of the Crown for himſelf; And for the more ex<g ref="char:EOLhyphen"/>pedite compaſſing this ambitious deſign, he firſt in<g ref="char:EOLhyphen"/>cenſes King <hi>Edward</hi> againſt their common Brother <hi>George</hi> Duke of <hi>Clarence,</hi> not only exaggerating the hainouſneſſe of his former diſobedience (which had been pardoned) but inſinuating a blind Prophecy, that one whoſe name began with the letter <hi>G.</hi> ſhould prove fatal to <hi>Edwards</hi> poſterity.</p>
+            <p>Hereupon the Duke of <hi>Clarence</hi> is committed to the <hi>Tower,</hi> and there, by <hi>Richard</hi> drowned in a Butt of <hi>Malm<g ref="char:EOLhyphen"/>ſey,</hi> however it was given out that he dyed of a diſ<g ref="char:EOLhyphen"/>contented paſſion.</p>
+            <p>But the Ominous <hi>G.</hi> which the King ſo much dreaded, was found in the ſequele to appertain to <hi>Glo<g ref="char:EOLhyphen"/>ceſter</hi> himſelf, who was the Contriver of this miſchief, and Butcher of <hi>Edwards</hi> innocent Sons, of whom, af<g ref="char:EOLhyphen"/>ter the Kings deceaſe, he was made Protector.</p>
+            <p>The young Prince <hi>(Edward</hi> the fifth) was at <hi>Lud<g ref="char:EOLhyphen"/>low,</hi> when his Father, <hi>Edward</hi> the fourth dyed, from whence his Mother was over deſirous to have him forthwith conveyed to <hi>London.</hi>
+            </p>
+            <p>But his Unkle the Duke of <hi>Glocester</hi> meets him by the way at <hi>Stony-Stratford,</hi> and having ſecured all his faithful Attendants and Kindred by the Mothers ſide, takes into cuſtody the perſon of the young King, which was the game that this mighty hunter did mainly intend.</p>
+            <p>Yet was there one obſtacle to his aſpiring ends ſtill
+<pb n="26" facs="tcp:60649:16"/>
+behind, to wit, <hi>Richard</hi> Duke of <hi>York</hi> the Kings Bro<g ref="char:EOLhyphen"/>ther, in Sanctuary with his Mother at <hi>Weſtminſter,</hi> whom to allure thence (for to do it by Violence, was accounted Religion in thoſe days) he imploys the Arch-Biſhop of <hi>Canterbury</hi> to perſwade the Mother, and in caſe ſhe proves obſtinate, to interpoſe his Au<g ref="char:EOLhyphen"/>thority, to part with her Son, under colour, that he might be a companion, and great lenitive of the Me<g ref="char:EOLhyphen"/>lancholy diſpoſition of his diſconſolate Brother.</p>
+            <p>
+               <hi>Gloceſter</hi> having thus compaſſed the Wardſhip of both his Nephews, makes ſhew as if he would pro<g ref="char:EOLhyphen"/>ceed to the Coronation of the Elder, but whilſt the Lords of the Councel are debating of the time and manner of it, he arreſts, and on a ſudden makes ſhor<g ref="char:EOLhyphen"/>ter by the Head the Lord Chamberlain <hi>Haſtings,</hi> whom though he had uſed as a forward Coadjuter in depreſſing of the Queens Relations, yet knew him to be altogether averſe from yielding any Countenance to the diſinheriting of his Maſters King <hi>Edwards</hi> Chil<g ref="char:EOLhyphen"/>dren.</p>
+            <p>
+               <hi>Haſtings</hi> thus removed, the Duke of <hi>Buckingham</hi> (who had received ſeveral diſguſts from his Brother-in-law <hi>Edward</hi> the fourth) is pitched upon as the fit<g ref="char:EOLhyphen"/>teſt agent to carry on this Deviliſh attempt; who having prepared the Mayor and Citizens of <hi>London,</hi> comes in their name, pretending Baſtardy, and in<g ref="char:EOLhyphen"/>ſufficiency of <hi>Edwards</hi> race, to make a tender of the Crown to Protector <hi>Richard,</hi> and in caſe of refuſal, with threats to elect ſome other worthy and deſerving Perſon. <hi>Richard</hi> in ſeeming amazedneſſe makes ſtrange at firſt of this by himſelf-deviſed propoſal, but after ſome importunity, grants his, forſooth, un<g ref="char:EOLhyphen"/>willing conſent, not without a diſſembled regret of his Nephews condition, whoſe murder in the <hi>Tower</hi> doth immediately enſue.</p>
+            <p>
+               <pb n="27" facs="tcp:60649:16"/>
+               <hi>Buckingham</hi> (ſuppoſed not privy to the making a<g ref="char:EOLhyphen"/>way of the harmleſſe Princes) upon this and other diſtaſts, retires from Court to his Caſtle of <hi>Breck<g ref="char:EOLhyphen"/>nock,</hi> where, with his priſoner <hi>Morton</hi> Biſhop of <hi>Ely,</hi> he contrives the Match between <hi>Henry</hi> Earl of <hi>Rich<g ref="char:EOLhyphen"/>mond,</hi> and <hi>Elizabeth</hi> Daughter of <hi>Edward</hi> the fourth, which proves <hi>Richards</hi> downfall, and the union of the Yorkiſh and Lancaſtrian line.</p>
+            <p>
+               <hi>Henry</hi> Earl of <hi>Richmond,</hi> was the Son of <hi>Margaret,</hi> Daughter of <hi>Iohn</hi> Duke of <hi>Somerſet,</hi> Son of <hi>Iohn</hi> of <hi>Gaunt</hi> Duke of <hi>Lancaster,</hi> by <hi>Katherine Swineford,</hi> relict of Sir <hi>Otes Swineford;</hi> and though this <hi>Iohn,</hi> and other Chil<g ref="char:EOLhyphen"/>dren, were born before eſpouſals, yet was the iſſue made legitimate by Act of Parliament, and confir<g ref="char:EOLhyphen"/>med by a Bull from <hi>Rome.</hi>
+            </p>
+            <p>Of this <hi>Henry</hi> there goes a tradition for current, that in the heat of the Civil Wars between the Houſe of <hi>York</hi> and <hi>Lancaſter, Henry</hi> the ſixth having eſpied him in the preſence, laid his hand upon his head, and in a Prophetick manner ſaid, Behold this youth, who is to enjoy that for which we now contend.</p>
+            <p>Which his Mother obſerving, and treaſuring up in her heart, ſent him into <hi>Britany</hi> in <hi>France,</hi> as into a ſafe Harbour, to be there educated and preſerved till the fury of the tempeſt were over, which then did ſo terribly rage throughout the Land.</p>
+            <p>
+               <hi>Richard</hi> the third earneſtly Solicites the Duke of <hi>Britany</hi> to deliver up <hi>Richmonds</hi> perſon to him, which was well-nigh effected, by the treachery of <hi>Peter Lan<g ref="char:EOLhyphen"/>doys,</hi> the Dukes eſpecial Favourite; But <hi>Richmond</hi> ha<g ref="char:EOLhyphen"/>ving timely notice of this Clandeſtine negotiation, flyes to the French Kings Court, (for at that time the Dukedom of <hi>Britany</hi> was a diſtinct Principality) from whence having ſworn to conſummate the project<g ref="char:EOLhyphen"/>ed marriage with the Lady <hi>Elizabeth,</hi> he haſtens to re<g ref="char:EOLhyphen"/>deem
+<pb n="28" facs="tcp:60649:17"/>
+poor <hi>England</hi> from the jaws of an uſurping Ty<g ref="char:EOLhyphen"/>rant.</p>
+            <p>
+               <hi>Richmond</hi> Lands at <hi>Milford Haven</hi> in <hi>Pembrokeſhire,</hi> where he was heartily welcomed, and readily aſſiſt<g ref="char:EOLhyphen"/>ed by the Welſh, from whoſe Princes he was deſcen<g ref="char:EOLhyphen"/>ed, as being the Son of <hi>Edmond</hi> of <hi>Haddam,</hi> the Son of <hi>Owen Ap Teudor,</hi> who could in a direct line derive his pedigree from the Noble Race of <hi>Cadwallader,</hi> laſt King of the Britains on this ſide <hi>Severne,</hi> as hath been before touched; though a modern Writer, more for the jeſt ſake, than out of reality, ſayes he was a Gentleman of no extraordinary lineage, but linea<g ref="char:EOLhyphen"/>ments, which he makes to be the motive that indu<g ref="char:EOLhyphen"/>ced <hi>Katherine</hi> of <hi>France, Dowager</hi> of <hi>England,</hi> after the death of <hi>Henry</hi> the fifth, to take him for her ſecond Husband.</p>
+            <p>
+               <hi>Richmond</hi> having much increaſed his Army among his Country-men, marches forward as far as <hi>Boſworth</hi> in <hi>Leiceſterſhire,</hi> where King <hi>Richard</hi> meets him, and there the great controverſy is finally decided in Bat<g ref="char:EOLhyphen"/>tail; <hi>Richard</hi> is ſlain, and <hi>Richmond</hi> by a kind of mi<g ref="char:EOLhyphen"/>litary election ſaluted, and in a manner Crowned King in the Field.</p>
+            <p>
+               <hi>Henry</hi> the ſeventh (for ſo muſt we now call him, that was but lately Earl of <hi>Richmond,)</hi> ſenſible that the tumultuary approbation of Souldiers did of it ſelf give him neither juſt or durable poſſeſſion, knowing likewiſe the weakneſſe of the <hi>Lancaſtrian</hi> plea in oppo<g ref="char:EOLhyphen"/>ſition to that of <hi>York,</hi> maries, according to his ſolemn preingagement, <hi>Elizabeth</hi> eldeſt Daughter of <hi>Edward</hi> the fourth, which brought ſecurity to his eſtate, and happineſſe to the Kingdom, the two Roſes, whoſe di<g ref="char:EOLhyphen"/>viſions had put the Engliſh to much expence of blood, being thereby concorporated, and forever after linked in a moſt firm and indiſſolvable knot.</p>
+            <p>
+               <pb n="29" facs="tcp:60649:17"/>
+But as in a body, that hath been troubled with a Cronique Diſeaſe, though recovered, yet are there ſtill ſome peccant humours to be purged out: ſo, not<g ref="char:EOLhyphen"/>withſtanding this Union and Reconciliation, there remains dregs of diſcontents, whereof the Queen Mo<g ref="char:EOLhyphen"/>ther was the ſuppoſed Parent, and <hi>Margaret</hi> Dutcheſs of <hi>Burgundy</hi> the known Nurſe; the firſt, becauſe ſhe thought her Daughter not ſufficiently reſpected (for King <hi>Henry</hi> is not accuſed to have been over uxorious or indulgent to his wife) the other, being Siſter of <hi>Edward</hi> the fourth, bore an endleſſe hatred to any of the Lancaſtrian Race.</p>
+            <p>The firſt Spirit they raiſed to diſturb King <hi>Henryes</hi> quiet, was one <hi>Lambert Symnell,</hi> a ſtripling, but ſo in<g ref="char:EOLhyphen"/>ſtructed by <hi>Simon</hi> a Prieſt, who had higher directors, that he could well perſonate the young Earl of <hi>War<g ref="char:EOLhyphen"/>wick</hi> (Son of <hi>George</hi> Duke of <hi>Clarence)</hi> whom the credu<g ref="char:EOLhyphen"/>lous Iriſh greedily entertain and acknowledge for their King: And when <hi>Henry</hi> to detect the forgery, had publickly ſhown in <hi>London</hi> the very Earl of <hi>War<g ref="char:EOLhyphen"/>wick</hi> whom he kept his Priſoner, they retort the ficti<g ref="char:EOLhyphen"/>on upon himſelf, and give out he had ſuborned a counterfeit on purpoſe to delude the ſimple multi<g ref="char:EOLhyphen"/>tude.</p>
+            <p>But this Pageantry quickly vaniſhed, the Conſpi<g ref="char:EOLhyphen"/>rators are diſperſed, and <hi>Lambert</hi> taken, who had the honour to be firſt made a Turn-ſpit in the Kings Kitchen, but was afterwards preferred to be one of the Kings Falconers.</p>
+            <p>This was but the Prologue as it were to a more deep contrived Comi-Tragaedy that was to follow, where<g ref="char:EOLhyphen"/>of the reſtleſſe Dutcheſſe of <hi>Burgundy</hi> was the Inven<g ref="char:EOLhyphen"/>ter, and one <hi>Perkin Werbeke</hi> the principal Actor. But the Name and Scene is ſomewhat altered: His Cue aſ<g ref="char:EOLhyphen"/>ſigned him, is to play the part of <hi>Richard</hi> Duke of <hi>York,</hi>
+               <pb n="30" facs="tcp:60649:18"/>
+ſecond Son of <hi>Edward</hi> the fourth, who is feigned to have miraculouſly eſcaped the hands of his bloody Unckle.</p>
+            <p>
+               <hi>Perkin</hi> was ſo good a proficient, and had learned, and could repeat his leſſon ſo exactly, that not the ſilly Iriſh alone, but the French, and Scotiſh Kings, with many of the Nobility and Gentry of <hi>England,</hi> were, or would be deceived.</p>
+            <p>Nay, Sir <hi>William Stanly</hi> himſelf, Lord Chamber<g ref="char:EOLhyphen"/>lain, the Kings eſpecial favorite, is ſo far trepanned, as to utter this improvident Speech (which was con<g ref="char:EOLhyphen"/>ſtrued high Treaſon) that if he certainly knew that the young man was the undoubted Son and Heir of King <hi>Edward</hi> the fourth, he would never fight, or bear Arms againſt him; for which he became headleſſe, though he had been the chief help and ſetter of the Crown upon King <hi>Henryes</hi> head.</p>
+            <p>
+               <hi>Perkin</hi> at length is taken, and committed to the Tower, where ſoliciting the Earl of <hi>Warwick</hi> to make an eſcape, he haſtens both his own merited, and that poor-Earls undeſerved execution.</p>
+            <p>
+               <hi>Henry</hi> having thus compoſed his affairs at home, ſeeks honourable matches for his children abroad; and marries his eldeſt Daughter <hi>Margaret</hi> to the Sco<g ref="char:EOLhyphen"/>tiſh King, providently foreſeeing, that in caſe his iſſue Male failed, this conjunction might be a means to aſſociate the ſeparated Kingdoms, (as his own had the Roſes) and ſo remedy the inconveniences of two diſtinct eſtates in one ſingle Iſland.</p>
+            <p>
+               <hi>Arthur</hi> his eldeſt Son, Prince of <hi>Wales,</hi> was eſpouſ<g ref="char:EOLhyphen"/>ed to <hi>Katherine</hi> Infanta of <hi>Spain,</hi> but he dying before conſummation, we mean as to conjugal duty, his brother <hi>Henry</hi> by diſpenſation from the Pope, takes her to wife, who on the wedding day was attired
+<pb n="31" facs="tcp:60649:18"/>
+all in white, in token that ſhe was a pure and ſpot<g ref="char:EOLhyphen"/>leſſe Virgin.</p>
+            <p>It is conceived that the young Prince (who hence<g ref="char:EOLhyphen"/>forward is to be ſtyled <hi>Henry</hi> the eighth) had never a<g ref="char:EOLhyphen"/>ny great fancy to the Lady, as ſomwhat his Superiour in years, but did rather comply with his Fathers will, than his own inclinations: However for a long time he lived with her in an outward loving and ſeeming reſpectful manner.</p>
+            <p>But at length ſatiated with her company, whom from the beginning he had not truly affected, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e medi<g ref="char:EOLhyphen"/>tates a divorce, and hopes by money and Cardinal <hi>Woolſeys</hi> intereſt in the Court of <hi>Rome,</hi> with ſpeed to effect the ſame. <hi>Woolſey,</hi> (who by his obſequiouſneſſe to the Kings pleaſure in all things, had from a mean con<g ref="char:EOLhyphen"/>dition mounted to the higheſt degree of favour and power that a Subject is capable of) is reported to be the firſt that injected the ſcruple into the Kings head, touching the unlawfullneſſe of his marriage with his Brothers Wife, which once in, could not in haſte be put out again. But in the proſecution the King and <hi>Woolſey</hi> had different ends<g ref="char:punc">▪</g> 
+               <hi>Woolſey</hi> to revenge him<g ref="char:EOLhyphen"/>ſelf of <hi>Charles</hi> the fifth, Emperour of <hi>Germany,</hi> and Nephew to <hi>Katherine,</hi> who had been a back-Friend to <hi>Woolſey</hi> in his attempted advancement to the Popedom, and by propoſing a match to the King out of <hi>France,</hi> he thought to ingratiate with that Crown, which might be more auſpitious in promoting his to wring deſigns. But the King had another, though not ſo deep a reach, which more concerned his own pri<g ref="char:EOLhyphen"/>vate ſatisfaction, than policy or reaſon of State.</p>
+            <p>For he deſired to be unyoked from his old Queen, that he might make a new one of one of her maids of honour, <hi>Anne</hi> of <hi>Bolen,</hi> with whom he was deſpe<g ref="char:EOLhyphen"/>rately in love: which the Cardinal ſmelling out,
+<pb n="32" facs="tcp:60649:19"/>
+proves cold in the buſineſſe, delays to exerciſe his legantine power, inſtigates the Pope to recall the cauſe to himſelf, and proceeds ſlowly therein; all which is performed accordingly, but it concludes with the ruine of <hi>Woolſey's</hi> and the Popes Authority. For impatient of theſe procraſtinations, <hi>Henry</hi> diſcards the one, and renounces the other, reject <hi>Katherine,</hi> mar<g ref="char:EOLhyphen"/>ries <hi>Anne,</hi> grows weary of her, impeaches her of in<g ref="char:EOLhyphen"/>ceſt with her own Brother, cuts off her head, in whoſe room the very next day ſucceeds <hi>Jane S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ym<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur,</hi> who dies in Child-birth; And ſo he continues thifting and putting away, or to death, his Wives, as well as other Subjects, till his own appointed time came, a little before which it is recorded that in great <hi>Agony</hi> he ſhould ſay unto Arch-Biſhop <hi>Cranmer,</hi> Is there any mercy for him, who never ſpared man in his wrath, nor woman in his luſt?</p>
+            <p>In his life he little regarded, but rather endeavour<g ref="char:EOLhyphen"/>ed to defeat by Parliament, the titles of his Daugh<g ref="char:EOLhyphen"/>ters, <hi>Mary</hi> by <hi>Katherine</hi> of <hi>Spain,</hi> and <hi>Elizabeth</hi> by <hi>Anne</hi> of <hi>Bolen,</hi> with both whoſe Mothers he had been grie<g ref="char:EOLhyphen"/>vouſly diſpleaſed, and ſeemed more inclinable to the off-ſpring of his youngeſt Siſter <hi>Mary,</hi> (Dowager of <hi>France)</hi> by <hi>Charles Brandon</hi> Duke of <hi>Suffolk,</hi> but at his death, by his laſt Will and Teſtament, he conſtituted his Son <hi>Edward</hi> by <hi>Jane Seymour,</hi> his next immediate heir, and then in caſe they dyed iſſuleſſe, the Lady <hi>Mary</hi> and the Lady <hi>Elizabeth</hi> to ſucceed in their order.</p>
+            <p>
+               <hi>Henry</hi> the eighth being dead, <hi>Edward</hi> the <hi>6th.</hi> of that name, his Son, is at nine years of age proclaimed King, and <hi>Edward</hi> Duke of <hi>Sommerſet</hi> by the Mothers ſide ordained his Protector, whoſe candid nature ex<g ref="char:EOLhyphen"/>poſed him to the cunning wiles of <hi>Dudley</hi> Duke of <hi>Nor<g ref="char:EOLhyphen"/>thumberland,</hi> which at laſt brought <hi>Sommerſet,</hi> his Bro<g ref="char:EOLhyphen"/>ther <hi>Thomas</hi> Marqueſſe of <hi>Hertford</hi> Admiral of <hi>England,</hi>
+               <pb n="33" facs="tcp:60649:19"/>
+and even the King himſelf to their untimely ends.</p>
+            <p>The Fox <hi>(Northumberland)</hi> obſerving the difference between the Protector and the Admiral, begun by the womaniſh emulation of their Wives, doth underhand ſo foment it, that the Admiral is brought to the block, and the Protector not long after follows' which renders the Pupill King, more obnoxious to <hi>Northumberlands</hi> ambitious practices, now that his two faithfull Uncles, who ſhould have ſupported him, are removed out of the way.</p>
+            <p>
+               <hi>Northumberland</hi> taking advantage of the Kings weakneſſe of mind and body, (whereunto he is ſhrewd<g ref="char:EOLhyphen"/>ly ſuſpected to have contributed) adviſes him to make a Will, wherein the King declaring that he was paſt his minority, (thoug hot above ſixteen years of age) and that it appertained to him to diſpoſe of the King<g ref="char:EOLhyphen"/>dome as he pleaſed, doth diſinherit his Siſters <hi>Mary</hi> and <hi>Elizabeth,</hi> as Perſons of whoſe legitimation there was a queſtion as likewiſe the iſſue of his eldeſt Aunt Siſter <hi>Margaret</hi> married to the Scotiſh King, as foreiners and aliens, bequeathing the Crown to his Couſen <hi>Jane</hi> Grand-daughter to the Dutcheſſe of <hi>Suffolk,</hi> the youngeſt Siſter of his Father King <hi>Henry</hi> the eighth.</p>
+            <p>
+               <hi>Guilford</hi> (Duke <hi>Dudleys</hi> Son) was husband to this Lady <hi>Jane,</hi> who upon the death of <hi>Edward</hi> was pro<g ref="char:EOLhyphen"/>claimed Queen, but <hi>Mary</hi> the eldeſt Daughter of King <hi>Henry,</hi> by the aſſiſtance of the <hi>Norfolk</hi> and <hi>Suffolk</hi> Gen<g ref="char:EOLhyphen"/>try, recovered that which both by birth and her Fa<g ref="char:EOLhyphen"/>thers appointment, was her undoubted though for a ſmall time de<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ai<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed right.</p>
+            <p>Notwithſtanding <hi>Mary</hi> by the Proteſtants aid at<g ref="char:EOLhyphen"/>tained the Crown, yet her Education in the contrary profeſſion, and the memory that for her Mothers ſake it ſuffered its firſt detriment, obliged her to recall the Catholick Religion that had been baniſhed in her Pre<g ref="char:EOLhyphen"/>deceſſors
+<pb n="34" facs="tcp:60649:20"/>
+days, keeping, as one wittily obſerves, the Kingdom by <hi>Pater noster,</hi> which ſhe had gained by <hi>Our Father which art in Heaven.</hi>
+            </p>
+            <p>Her zeal and over-ardent deſire to extinguiſh that which ſhe thoug<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t Hereſy, kindled many fir<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s in this land, for which ſhe hears ill among the vulgar to this day, and bears the brand of tyranny, though of her ſelf ſhe was of a mild and merciful diſpoſition.</p>
+            <p>Among other paſſages, her ſeverity to her Siſter <hi>Elizabeth</hi> is much taxed, of whoſe ſincere devotion, though outwardly conformable to the Romiſh Church, the Queen much doubted, and fearin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a re<g ref="char:EOLhyphen"/>lapſe of things after her own death, could have been content that her Siſter <hi>Elizabeth,</hi> though the youngeſt, had had the Precedency therein; But <hi>Philip</hi> King of <hi>Spain,</hi> Queen <hi>Maryes</hi> husband, had other thoughts of and intentions towards <hi>Elizabeth,</hi> whom he preſerved from her Siſters violence, and deſigned for his ſecond, we would ſay, third wife, for he was a Widdower, when he married <hi>Mary,</hi> by whom he now begins to deſpair of iſſue, and by reaſon of her Dropſy, per<g ref="char:EOLhyphen"/>ceives ſhe was in no wiſe immortal here.</p>
+            <p>Queen <hi>Elizabeth</hi> at her firſt entrance makes ſhew as if ſhe would tread in her Siſter <hi>Maryes</hi> ſteps, whereby ſhe ſo charmed the Catholick Clergy and Nobility, that they created her no diſturbance: And ſhe did fur<g ref="char:EOLhyphen"/>ther ſo temporize with King <hi>Philip,</hi> that he was a great favourer of her admiſſion, hoping ſhortly to be a Copartner with her both in Bed and Kingdom.</p>
+            <p>But the fancy which <hi>Philip,</hi> though no Babe, had builded in his brain, quickly appears to be but an aerial Caſtle; for <hi>Elizabeth</hi> ſoon undeceives him, and other Romaniſts, who had promiſed themſelves other matters, by declining Marriage, diſowing the Popes Juriſdiction, and reducing Eccleſiaſtical Affairs to the ſame ſtate and condition her Father and Brother had left them in.</p>
+            <p>
+               <pb n="35" facs="tcp:60649:20"/>
+The averſeneſſe of this Queen to Matrimonial Bon<g ref="char:EOLhyphen"/>dage, as ſhe accounted it, gave occaſion to that great and by her alwayes diſliked diſpute about the Suc<g ref="char:EOLhyphen"/>ceſſion: That it belonged of right to <hi>Mary</hi> Queen of <hi>Scots,</hi> Daughter of <hi>James,</hi> the fifth Son of <hi>Margaret</hi> eldeſt Daughter to King <hi>Henry</hi> the ſeventh, none could reaſonably deny; but <hi>Mary,</hi> ſay the State Politici<g ref="char:EOLhyphen"/>ans of thoſe times, will prove another <hi>Mary,</hi> and our Religion will be depreſſed, if ſhe be advanced to the Engliſh Throne: Her own Subjects have expelled her upon that account; and ſhall we accept of her for our Princeſſe, whom we have ſo much diſobliged by de<g ref="char:EOLhyphen"/>taining ſo long a Priſoner?</p>
+            <p>For this unfortunate Queen, having been educated in <hi>France,</hi> did after the deceaſe of her firſt Husband, the <hi>Dolphin,</hi> return into <hi>Scotland,</hi> of whoſe faſhions, by reaſon of her forein breeding, being ſomewhat ignorant, ſhe could not conſequently but be guilty of ſome miſcarriages, which her Enemies ſo aggravate, that they ſtir up the people to a ſedition, ſeize upon her Perſon, force her to reſign to her Son <hi>James</hi> (by <hi>Henry</hi> Lord <hi>Darly,</hi> Son of the Duke of <hi>Lenox)</hi> not full eighteen Months old, of whom Earl <hi>Murray</hi> (her Baſtar<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Brother) is made Regent, who was the be<g ref="char:EOLhyphen"/>ginni<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g and continuer of all her troubles.</p>
+            <p>
+               <hi>Mary,</hi> late, and by right ſtill, Queen of Scots, after this extorted and therefore invalid reſignation, fear<g ref="char:EOLhyphen"/>ing further attempts againſt her life, eſcapes out of the loathſom Gaol where ſhe was ſecured, and be<g ref="char:EOLhyphen"/>takes h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r ſelf into <hi>England</hi> for ſuccour, ſending news to her Cozen Queen <hi>Elizabeth,</hi> imploring not only pre<g ref="char:EOLhyphen"/>ſent protection, but alſo ſuch convenient aides, as might reſtore her to her Kingdom, of which ſhe had been forceably deprived by her Mutinous and Rebelli<g ref="char:EOLhyphen"/>ous Subjects.</p>
+            <p>
+               <pb n="36" facs="tcp:60649:21"/>
+               <hi>Elizabeth</hi> at firſt gives good words, and ſends her large attendance, which were yet but in the quality of an honourable Guard, but afterwards more and more abridges her liberty; at which hard and unwor<g ref="char:EOLhyphen"/>thy uſage of a ſuppliant and Heir apparent of the Crown, ſome Engliſh Lords and Gentlemen concei<g ref="char:EOLhyphen"/>ving a juſt diſdain, project and propoſe to her means of deliverance, whereunto ſhe (as all other living creatures are) moſt greedy of natural freedom, doth readily aſſent; but theſe are prevented; and her Acti<g ref="char:EOLhyphen"/>ons interpreted as yet tending to the deſtruction of Queen <hi>Elizabeth,</hi> for which ſhe is tryed by certain de<g ref="char:EOLhyphen"/>legated Commiſſioners (who much reſembled a late thing called an High Court of Juſtice) is by them found guilty, and ſhortly after beheaded at <hi>Fothering<g ref="char:EOLhyphen"/>ham</hi> Caſtle in <hi>Northamtonſhire;</hi> but the true cauſe why ſhe ſuffered, was expreſſed to her ſelf by the Earl of <hi>Kent,</hi> (one of her Judges,) a little before her reputed Martyrdom; <hi>Madam,</hi> ſays he, if you live our Religi<g ref="char:EOLhyphen"/>on is in danger, of which words ſhe deſired the Au<g ref="char:EOLhyphen"/>ditors to take ſpecial notice, that confeſſedly it was not Treaſon, but Religion for which ſhe was to dye.</p>
+            <p>
+               <hi>James</hi> the <hi>6th.</hi> King of <hi>Scotland,</hi> Son of the late exe<g ref="char:EOLhyphen"/>cuted <hi>Mary,</hi> now come to years of diſcretion, expoſtu<g ref="char:EOLhyphen"/>lates with Queen <hi>Elizabeth</hi> about his Mothers death, but the Queen puts it off upon the precipitation of her Secretary <hi>Daviſon,</hi> intimating, that if he ſtirred in the leaſt manner to revenge, it would irrecoverably hazard his hopes of the Succeſſion, of which yet ſhe gives him but a very faint aſſurance. But in her declining age, ſome about her, who had been ſhie before to in<g ref="char:EOLhyphen"/>termeddle with ſo ticliſh and unpleaſing a point, grow more peremptory, and preſſe her to a poſitive de<g ref="char:EOLhyphen"/>claration, to whom her anſwer was, It is the King of <hi>Scots</hi> due, and let him have it.</p>
+            <p>
+               <pb n="37" facs="tcp:60649:21"/>
+Conform whereunto <hi>James</hi> King of <hi>Scotland,</hi> imme<g ref="char:EOLhyphen"/>diately after her death is proclaimed King of <hi>England,</hi> both which he converts into the name of Great <hi>Bri<g ref="char:EOLhyphen"/>tany;</hi> and now is <hi>Cadwalladers</hi> Prophecy, before remem<g ref="char:EOLhyphen"/>bred, exactly compleated, that his Race ſhould re<g ref="char:EOLhyphen"/>cover the ſole Dominion of this Iſland; for King <hi>James,</hi> beſides his direct deſcent from King <hi>Henry</hi> the ſeventh, brought another, but higher title, if the former had not been ſufficient, from <hi>Banco</hi> a Nobleman of <hi>Scotland,</hi> whoſe Son <hi>Fleance</hi> fled from the tyranny of <hi>Macbeth</hi> the Uſurper, into <hi>Wales,</hi> and there married the Prince his Daughter, by whom he had <hi>Walter</hi> the firſt of the re<g ref="char:EOLhyphen"/>nowned Family of the <hi>Stewards:</hi> but for the particulars of that conjunction, we referre you to the Britiſh and and Scotiſh Hiſtorians.</p>
+            <p>King <hi>James</hi> aroſe in this our Horizon with much clearneſſe, notwithſtanding <hi>Rawleighs</hi> miſt, and the ſmoak of the Gun-powder-plot, which were ſoon diſpell'd: but his ſetting was obſcured by a little Cloud which ſhortly did overſpread the whole Land.</p>
+            <p>He had married his eldeſt Daughter <hi>Elizabeth</hi> to <hi>Frederick</hi> Prince Palatine of the <hi>Rhene,</hi> who unadviſed<g ref="char:EOLhyphen"/>ly gaping after the Kingdom of <hi>Bohemia,</hi> loſt not only it, but his own patrimonial poſſeſſion.</p>
+            <p>King <hi>Iames</hi> who had more of <hi>Solomon</hi> than <hi>David</hi> in him, ſollicites reſtitution, rather by Treaty than Arms, and as the moſt conducing means to his peaceable ends, entertains an overture of a match betwixt his Son <hi>Charles</hi> Prince of <hi>Wales</hi> and the Infanta of <hi>Spayn,</hi> to whoſe King, the Palatinate was by the Emperour con<g ref="char:EOLhyphen"/>ſigned over.</p>
+            <p>But the Engliſh Parliament takes exception at this intended Spaniſh affinity, and as if Religion were at the Stake, declaims againſt it; Notwithſtanding the King ſends his Son into <hi>Spain,</hi> who returns thence
+<pb n="38" facs="tcp:60649:22"/>
+without a wife. yet in his paſſage thither, had an ac<g ref="char:EOLhyphen"/>cidental ſight of her in <hi>France,</hi> who was by Heaven his deſigned Spouſe.</p>
+            <p>As ſoon as <hi>Iames</hi> was dead, <hi>Charles</hi> his Son is pro<g ref="char:EOLhyphen"/>claimed King, who immediately marries <hi>Henrietta Maria</hi> youngeſt Daughter to <hi>Henry</hi> the great King of <hi>France,</hi> of whom, as was juſt now hinted, he had a tranſient view in his voiage to <hi>Spain,</hi> which when this Princeſſe underſtood, ſhe is reported to have ſaid, That he needed not to have gone ſo far for a wife.</p>
+            <p>But now the ſeed of diſcontent, which had been ſowed in his Fathers time, did begin to bud forth; <hi>Scotland</hi> yields the firſt-fruits, which alſo too much thrives in the Engliſh P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>antation. The Scotiſh Nobi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<g ref="char:EOLhyphen"/>ty enter into Combination againſt Epiſcopacy, and the Service-book, which they allege to be obtruded up<g ref="char:EOLhyphen"/>on them.</p>
+            <p>For redreſſe of theſe imaginary grievances, the Scots with ſwords in their hand approach his Majeſty to preſent a Petition, as is given out<hi>:</hi> A Parliament in <hi>England</hi> is called to compoſe differences, which rather increaſes them, for which it is ſoon diſſolved: The Scots Invaſion continues, but at length a Pacification is made; another Parliament is convened, which working ſo far upon the Kings neceſſities, extorts from him an inſeparable jewel of his Prerogrative, to wit, a privilege, not before asked or granted, not to be diſcharged without their own conſent.</p>
+            <p>In ſtrength of this conceſſion they proceed to other unſeaſonable demands, which together with the tu<g ref="char:EOLhyphen"/>mults of the City, occaſioned the King to retire North<g ref="char:EOLhyphen"/>ward, and being denyed entrance into <hi>Hull,</hi> (for which Sir <hi>Iohn Hotham</hi> did afterwards receive his re<g ref="char:EOLhyphen"/>ward from thoſe that imployed him) he repairs to
+<pb n="39" facs="tcp:60649:22"/>
+               <hi>Nottingham,</hi> where, underſtanding that an Army wa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orm<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d under the Earl of <hi>Eſſex</hi> a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>London,</hi> and then on their M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to bring him back, as it was gi<g ref="char:EOLhyphen"/>ven out, to his Parliament, he ſets up his Standard Royal; but the appearance not anſwering expectati<g ref="char:EOLhyphen"/>on, he directs his courſe towards <hi>Shrewsbury,</hi> where by the confluence of the loyal Welſh, his ſmall for<g ref="char:EOLhyphen"/>ces are ſo increaſed, that he is able to confront the Earl of <hi>Eſſex,</hi> then at <hi>Worceſter,</hi> who retreats into <hi>War<g ref="char:EOLhyphen"/>wickſhire,</hi> and is overtaken at <hi>Edge-hill</hi> by his Majeſty, where t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e firſt ſignal battail is ſought, in which both ſides were great loſers, and yet both ſides aſſume the victory to themſelves.</p>
+            <p>The war continues doubtful for three years, but the Battail at <hi>Naſeby</hi> in <hi>Northamptonſhire</hi> proves fatal to the Kings affairs; for after that ſucceeds little elſe, but the ruine of his party in all places, and ſurrender of moſt of his Garriſons, till he was neceſſitated in diſ<g ref="char:EOLhyphen"/>guiſe to leave <hi>Oxford,</hi> his prime, and well-nigh a<g ref="char:EOLhyphen"/>lone remaining hold, then in a manner beleaguered, and betake himſelf for Protection to the Scotiſh Army.</p>
+            <p>The Scots, t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ough they had received all poſſible ſa<g ref="char:EOLhyphen"/>tisfaction as to their own concernments, yet could not refrain from intermeddling in the Engliſh diſtempers, and were at that time beſieging <hi>Newark</hi> upon <hi>Trent.</hi>
+            </p>
+            <p>They at firſt received the King with all ſeeming promiſes of ſecurity as to his Perſon, but having car<g ref="char:EOLhyphen"/>ried him with them to <hi>Newcaſtle,</hi> do there barter him with the Engliſh for 200000 <hi>l.</hi> a price, which, as the French Embaſſador obſerved, did far exceed that which <hi>Judas</hi> received for betraying of our Saviour.</p>
+            <p>From <hi>Newcaſtle</hi> his bought and ſold Majeſty is con<g ref="char:EOLhyphen"/>veyed, by Commiſſioners deputed for that purpoſe from the Parliament of <hi>England,</hi> to his houſe at <hi>Holdenby</hi> in
+<pb n="40" facs="tcp:60649:23"/>
+               <hi>Northamtonſhire</hi> (perhaps that he might be within proſpect of that uncomfortable place <hi>Naſeby,</hi> where was given him his irreparable overthrow) there to reſide dur<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng the pleaſure of the two Houſes<hi>:</hi> But not long it was ere <hi>Cromwel</hi> (whoſe pulſe at that time ſays a then pen-man, began to beat a Lordly pace) by his inſtrument <hi>Ioyce</hi> ſurpri<g ref="char:EOLhyphen"/>zes him in his bed, and when <hi>Ioyce</hi> told <hi>Crom<g ref="char:EOLhyphen"/>wel</hi> that he had the King in his Cuſtody, then, quoth <hi>Cromwel,</hi> I have the Parliament in my pocket.</p>
+            <p>
+               <hi>Cromwels</hi> end in ſeizing on the Kings perſon, was not only for countenance of his Independent pro<g ref="char:EOLhyphen"/>ceedings againſt the oppoſite Presbyterian faction; but after their depreſſion the better to be ena<g ref="char:EOLhyphen"/>bled to deſtroy the King himſelf for his own ad<g ref="char:EOLhyphen"/>vancement.</p>
+            <p>For having once entrapped this Royal Lyon, he doth dayly more and more entangle him within his toyles, and never thinks him faſt enough, till he had got him in his pit-fall of the <hi>Iſle of Wight:</hi> whether he had allured the good King, who thought others as free from guile, as he knew himſelf to be, by ſetting before him the danger he was in, while he remained at <hi>Hamp<g ref="char:EOLhyphen"/>ton</hi> Court, how he lay open and expoſed to the wicked machinations of the Agitators of the Army, who intended to Act that, which he poor Soul did even tremble to utter.</p>
+            <p>But what the King hopes to find a tempora<g ref="char:EOLhyphen"/>ry Sanctuary, proves to him a conſtant priſon, from whence he is not to be delivered but in order to his Tryal and Execution, the Barba<g ref="char:EOLhyphen"/>rity of which fact, as we cannot, ſo neither need
+<pb n="41" facs="tcp:60649:23"/>
+we aggravate, nor recite particular Circumſtan<g ref="char:EOLhyphen"/>ces of what either then or hath ſince happen<g ref="char:EOLhyphen"/>ed, it being the Subject of all pens and tongues, or if any be ſo great a ſtranger in our <hi>Iſrael,</hi> he may receive information from each Poſt and Pamphlet; <hi>Our task being finiſhed, which was in the way of an Hiſtorical Eſſay to prove Gods eſpe<g ref="char:EOLhyphen"/>cial Providence over the Engliſh Monarchy, more par<g ref="char:EOLhyphen"/>ticularly over that Family which now doth, and l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng may it enioy the ſame.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
